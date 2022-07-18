@@ -7,7 +7,7 @@ def safe_print_division(a, b):
     global div
     try:
         div = a / b
-    except (TypeError, ValueError):
+    except (TypeError, ZeroDivisionError):
         div = None
     finally:
         print("Inside result: {}".format(div))

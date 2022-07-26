@@ -4,6 +4,15 @@
 
 
 def matrix_divided(matrix, div):
+    """
+    "Divide all elements of a matrix."
+
+    The first line of the docstring is a one-sentence summary of the function's purpose
+
+    :param matrix: A list of lists of ints or floats
+    :param div: The divisor
+    :return: A new matrix representing the result of the division.
+    """
     """Divide all elements of a matrix.
     Args:
         matrix (list): A list of lists of ints or floats.

@@ -26,7 +26,7 @@ class Base:
         """
         This function converts a list of dictionaries to a JSON string.
 
-        :param list_dictionaries: a list of dictionaries
+        param list_dictionaries: a list of dictionaries
         :return: A JSON string representation of list_dictionaries.
         """
         if list_dictionaries is None or list_dictionaries == []:
@@ -38,7 +38,7 @@ class Base:
         """
         It writes a list of dictionaries to a file
 
-        :param cls: the class that we're calling the method from
+        param cls: the class that we're calling the method from
         :param list_objs: a list of instances who inherits of Base
         """
         filename = cls.__name__ + ".json"
@@ -54,7 +54,7 @@ class Base:
         """
         It takes a json string and returns a python object.
 
-        :param json_string: the string to be converted
+        param json_string: the string to be converted
         :return: A list of JSON string representation.
         """
         if json_string is None or json_string == "[]":
@@ -69,7 +69,7 @@ class Base:
         attributes of the new instance, and
         return the new instance.
 
-        :param cls: the class that is calling the function
+        param cls: the class that is calling the function
         :return: A new instance of the class with the attributes updated
         """
         if dictionary and dictionary != {}:
@@ -91,7 +91,7 @@ class Base:
         The try/except block attempts to open the file and read it. If the file
         doesn't exist, the except block returns an empty list
 
-        :param cls: the class that we're calling the method on
+        param cls: the class that we're calling the method on
         :return: A list of instances
         """
         filename = str(cls.__name__) + ".json"
@@ -110,7 +110,7 @@ class Base:
         of dictionaries, write the keys of the first dictionary
         as the header, and write the dictionaries as rows.
 
-        :param cls: the class that we're calling the method on
+        param cls: the class that we're calling the method on
         :param list_objs: the list of objects to be saved
         """
         with open("{}.csv".format(cls.__name__), "w+") as f:
@@ -127,7 +127,7 @@ class Base:
         It reads a csv file,
         creates a list of dictionaries, and then creates a list of objects
 
-        :param cls: the class that we're calling the method on
+        param cls: the class that we're calling the method on
         :return: A list of objects
         """
         try:
@@ -153,11 +153,11 @@ class Base:
             list_squares (list): A list of Square objects to draw.
         """
         turt = turtle.Turtle()
-        turt.screen.bgcolor("#b7312c")
+        turt.screen.bgcolor("green")
         turt.pensize(3)
         turt.shape("turtle")
 
-        turt.color("#ffffff")
+        turt.color("red")
         for rect in list_rectangles:
             turt.showturtle()
             turt.up()
@@ -170,7 +170,7 @@ class Base:
                 turt.left(90)
             turt.hideturtle()
 
-        turt.color("#b5e3d8")
+        turt.color("yellow")
         for sq in list_squares:
             turt.showturtle()
             turt.up()

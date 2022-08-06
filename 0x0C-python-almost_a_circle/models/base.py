@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+import csv
 import json
 
 
@@ -100,4 +101,44 @@ class Base:
         except IOError:
             return []
 
+    @classmethod
+    def save_to_file_csv(cls, list_objs):
+        """
+        If the list of objects is empty, write an empty string to the file.
+        Otherwise, convert the list of objects to a list
+        of dictionaries, write the keys of the first dictionary
+        as the header, and write the dictionaries as rows.
 
+        :param cls: the class that we're calling the method on
+        :param list_objs: the list of objects to be saved
+        """
+        with open("{}.csv".format(cls.__name__), "w+") as f:
+            if list_objs is None:
+                f.write("")
+            list_objs_dicts = [obj.to_dictionary() for obj in list_objs]
+            writer = csv.DictWriter(f, list_objs_dicts[0].keys())
+            writer.writeheader()
+            writer.writerows(list_objs_dicts)
+
+    @classmethod
+    def load_from_file_csv(cls):
+        """
+        It reads a csv file,
+        creates a list of dictionaries, and then creates a list of objects
+
+        :param cls: the class that we're calling the method on
+        :return: A list of objects
+        """
+        try:
+            with open("{}.csv".format(cls.__name__), "r") as f:
+                reader = csv.DictReader(f)
+                list_objs = []
+                for row in reader:
+                    obj_dict = {}
+                    for name, value in row.items():
+                        obj_dict[name] = int(value)
+                    obj = cls.create(**obj_dict)
+                    list_objs += [obj]
+                return list_objs
+        except:
+            return "[]"

@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+# Importing the Base class from the base.py file.
 from base import Base
 
 
@@ -151,3 +152,10 @@ class Rectangle(Base):
         if kwargs is not None and len(kwargs) > 0 and len(kwargs) <= 5:
             for name, value in kwargs.items():
                 setattr(self, name, value)
+
+    def to_dictionary(self):
+        """
+        Returns the dictionary representation of a Rectangle
+        :return: A dictionary with the id, width, height, x, and y of the rectangle.
+        """
+        return {"id": self.id, "width": self.width, "height": self.height, "x":self.x, "y":self.y}

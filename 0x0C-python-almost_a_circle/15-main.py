@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """ 15-main """
-from rectangle import Rectangle
+from models.rectangle import Rectangle
 
 if __name__ == "__main__":
 

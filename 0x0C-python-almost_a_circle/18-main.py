@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """ 18-main """
-from rectangle import Rectangle
-from square import Square
+from models.rectangle import Rectangle
+from models.square import Square
 
 if __name__ == "__main__":
 

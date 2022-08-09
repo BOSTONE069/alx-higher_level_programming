@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """ 14-main """
-from base import Base
-from rectangle import Rectangle
+from models.base import Base
+from models.rectangle import Rectangle
 
 if __name__ == "__main__":
 

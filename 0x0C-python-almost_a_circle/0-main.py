@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """ 0-main """
-from base import Base
+from models.base import Base
 
 if __name__ == "__main__":
 

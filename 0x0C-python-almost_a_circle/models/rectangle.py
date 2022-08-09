@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 # Importing the Base class from the base.py file.
-from base import Base
+from models.base import Base
 
 
 class Rectangle(Base):

@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 """ 101-main """
-from base import Base
-from rectangle import Rectangle
-from square import Square
+from models.base import Base
+from models.rectangle import Rectangle
+from models.square import Square
 
 if __name__ == "__main__":
 

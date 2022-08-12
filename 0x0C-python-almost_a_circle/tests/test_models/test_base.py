@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 # test_base.py
-# Muendo jackson <jackmwexh1225@gmail.com>
 """Defines unittests for base.py.
 Unittest classes:
     TestBase_instantiation - line 23

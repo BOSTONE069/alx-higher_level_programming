@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="script that lists all genres in the database hbtn_0d_tvshows_rate by their rating.">
+      <change afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/0-javascript_is_amazing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2BD6KlEHxOx5sellPDy6vjQNPxi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ToolWindowGit.ShowToolbar": "false",
+    "last_opened_file_path": "/home/intelligence/alx-higher_level_programming",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="PythonConfigurationType" />
+        <option value="ShConfigurationType" />
+        <option value="docs" />
+        <option value="tests" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.3-main">
+    <configuration name="0-print_list_integer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="alx-higher_level_programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0x03-python-data_structures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0x03-python-data_structures/0-print_list_integer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="101-easy_print" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="alx-higher_level_programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0x02-python-import_modules" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0x02-python-import_modules/101-easy_print.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="102-magic_calculation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="alx-higher_level_programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0x02-python-import_modules" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0x02-python-import_modules/102-magic_calculation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3-main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="alx-higher_level_programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0x0C-python-almost_a_circle/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0x0C-python-almost_a_circle/models/3-main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in 6-max_integer_test.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="alx-higher_level_programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0x07-python-test_driven_development/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/0x07-python-test_driven_development/tests/6-max_integer_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.3-main" />
+      <item itemvalue="Python.0-print_list_integer" />
+      <item itemvalue="Python.101-easy_print" />
+      <item itemvalue="Python.102-magic_calculation" />
+      <item itemvalue="Python tests.Python tests in 6-max_integer_test.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.3-main" />
+        <item itemvalue="Python tests.Python tests in 6-max_integer_test.py" />
+        <item itemvalue="Python.0-print_list_integer" />
+        <item itemvalue="Python.101-easy_print" />
+        <item itemvalue="Python.102-magic_calculation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="" />
+      <created>1656428246784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656428246784</updated>
+    </task>
+    <task id="LOCAL-00219" summary="script that prints the full description of the table first_table from the database hbtn_0c_0 in your MySQL server.">
+      <created>1662483139042</created>
+      <option name="number" value="00219" />
+      <option name="presentableId" value="LOCAL-00219" />
+      <option name="project" value="LOCAL" />
+      <updated>1662483139042</updated>
+    </task>
+    <task id="LOCAL-00220" summary="script that prints the full description of the table first_table from the database hbtn_0c_0 in your MySQL server.">
+      <created>1662483348288</created>
+      <option name="number" value="00220" />
+      <option name="presentableId" value="LOCAL-00220" />
+      <option name="project" value="LOCAL" />
+      <updated>1662483348288</updated>
+    </task>
+    <task id="LOCAL-00221" summary="script that inserts a new row in the table first_table (database hbtn_0c_0) in your MySQL server.">
+      <created>1662483482970</created>
+      <option name="number" value="00221" />
+      <option name="presentableId" value="LOCAL-00221" />
+      <option name="project" value="LOCAL" />
+      <updated>1662483482970</updated>
+    </task>
+    <task id="LOCAL-00222" summary="script that inserts a new row in the table first_table (database hbtn_0c_0) in your MySQL server.">
+      <created>1662483561609</created>
+      <option name="number" value="00222" />
+      <option name="presentableId" value="LOCAL-00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1662483561609</updated>
+    </task>
+    <task id="LOCAL-00223" summary="script that displays the number of records with id = 89 in the table first_table of the database hbtn_0c_0 in your MySQL server.">
+      <created>1662483658106</created>
+      <option name="number" value="00223" />
+      <option name="presentableId" value="LOCAL-00223" />
+      <option name="project" value="LOCAL" />
+      <updated>1662483658106</updated>
+    </task>
+    <task id="LOCAL-00224" summary="script that creates a table second_table in the database hbtn_0c_0 in your MySQL server and add multiples rows.">
+      <created>1662483864399</created>
+      <option name="number" value="00224" />
+      <option name="presentableId" value="LOCAL-00224" />
+      <option name="project" value="LOCAL" />
+      <updated>1662483864399</updated>
+    </task>
+    <task id="LOCAL-00225" summary="script that lists all records of the table second_table of the database hbtn_0c_0 in your MySQL server.">
+      <created>1662484197104</created>
+      <option name="number" value="00225" />
+      <option name="presentableId" value="LOCAL-00225" />
+      <option name="project" value="LOCAL" />
+      <updated>1662484197104</updated>
+    </task>
+    <task id="LOCAL-00226" summary="script that lists all records with a score &gt;= 10 in the table second_table of the database hbtn_0c_0 in your MySQL server.">
+      <created>1662484560188</created>
+      <option name="number" value="00226" />
+      <option name="presentableId" value="LOCAL-00226" />
+      <option name="project" value="LOCAL" />
+      <updated>1662484560188</updated>
+    </task>
+    <task id="LOCAL-00227" summary="script that updates the score of Bob to 10 in the table second_table.">
+      <created>1662484797655</created>
+      <option name="number" value="00227" />
+      <option name="presentableId" value="LOCAL-00227" />
+      <option name="project" value="LOCAL" />
+      <updated>1662484797655</updated>
+    </task>
+    <task id="LOCAL-00228" summary="script that removes all records with a score &lt;= 5 in the table second_table of the database hbtn_0c_0 in your MySQL server.">
+      <created>1662484898812</created>
+      <option name="number" value="00228" />
+      <option name="presentableId" value="LOCAL-00228" />
+      <option name="project" value="LOCAL" />
+      <updated>1662484898812</updated>
+    </task>
+    <task id="LOCAL-00229" summary="script that computes the score average of all records in the table second_table of the database hbtn_0c_0 in your MySQL server.">
+      <created>1662485155062</created>
+      <option name="number" value="00229" />
+      <option name="presentableId" value="LOCAL-00229" />
+      <option name="project" value="LOCAL" />
+      <updated>1662485155062</updated>
+    </task>
+    <task id="LOCAL-00230" summary="script that lists the number of records with the same score in the table second_table of the database hbtn_0c_0 in your MySQL server.">
+      <created>1662485327581</created>
+      <option name="number" value="00230" />
+      <option name="presentableId" value="LOCAL-00230" />
+      <option name="project" value="LOCAL" />
+      <updated>1662485327581</updated>
+    </task>
+    <task id="LOCAL-00231" summary="script that lists all records of the table second_table of the database hbtn_0c_0 in your MySQL server.">
+      <created>1662485427919</created>
+      <option name="number" value="00231" />
+      <option name="presentableId" value="LOCAL-00231" />
+      <option name="project" value="LOCAL" />
+      <updated>1662485427919</updated>
+    </task>
+    <task id="LOCAL-00232" summary="script that converts hbtn_0c_0 database to UTF8 (utf8mb4, collate utf8mb4_unicode_ci) in your MySQL server.">
+      <created>1662485638598</created>
+      <option name="number" value="00232" />
+      <option name="presentableId" value="LOCAL-00232" />
+      <option name="project" value="LOCAL" />
+      <updated>1662485638598</updated>
+    </task>
+    <task id="LOCAL-00233" summary="script that displays the average temperature (Fahrenheit) by city ordered by temperature (descending).">
+      <created>1662486025323</created>
+      <option name="number" value="00233" />
+      <option name="presentableId" value="LOCAL-00233" />
+      <option name="project" value="LOCAL" />
+      <updated>1662486025323</updated>
+    </task>
+    <task id="LOCAL-00234" summary="script that displays the average temperature (Fahrenheit) by city ordered by temperature (descending).">
+      <created>1662486111751</created>
+      <option name="number" value="00234" />
+      <option name="presentableId" value="LOCAL-00234" />
+      <option name="project" value="LOCAL" />
+      <updated>1662486111751</updated>
+    </task>
+    <task id="LOCAL-00235" summary="script that displays the top 3 of cities temperature during July and August ordered by temperature (descending)">
+      <created>1662486177345</created>
+      <option name="number" value="00235" />
+      <option name="presentableId" value="LOCAL-00235" />
+      <option name="project" value="LOCAL" />
+      <updated>1662486177345</updated>
+    </task>
+    <task id="LOCAL-00236" summary="script that displays the max temperature of each state (ordered by State name).">
+      <created>1662486427480</created>
+      <option name="number" value="00236" />
+      <option name="presentableId" value="LOCAL-00236" />
+      <option name="project" value="LOCAL" />
+      <updated>1662486427480</updated>
+    </task>
+    <task id="LOCAL-00237" summary="This is the read me file">
+      <created>1662486453369</created>
+      <option name="number" value="00237" />
+      <option name="presentableId" value="LOCAL-00237" />
+      <option name="project" value="LOCAL" />
+      <updated>1662486453369</updated>
+    </task>
+    <task id="LOCAL-00238" summary="This is the summary project">
+      <created>1662486496924</created>
+      <option name="number" value="00238" />
+      <option name="presentableId" value="LOCAL-00238" />
+      <option name="project" value="LOCAL" />
+      <updated>1662486496924</updated>
+    </task>
+    <task id="LOCAL-00239" summary="This is the summary project">
+      <created>1662486509373</created>
+      <option name="number" value="00239" />
+      <option name="presentableId" value="LOCAL-00239" />
+      <option name="project" value="LOCAL" />
+      <updated>1662486509373</updated>
+    </task>
+    <task id="LOCAL-00240" summary="This is the SQL files">
+      <created>1662572801754</created>
+      <option name="number" value="00240" />
+      <option name="presentableId" value="LOCAL-00240" />
+      <option name="project" value="LOCAL" />
+      <updated>1662572801755</updated>
+    </task>
+    <task id="LOCAL-00241" summary="script that lists all privileges of the MySQL users user_0d_1 and user_0d_2 on your server (in localhost).">
+      <created>1662573676036</created>
+      <option name="number" value="00241" />
+      <option name="presentableId" value="LOCAL-00241" />
+      <option name="project" value="LOCAL" />
+      <updated>1662573676036</updated>
+    </task>
+    <task id="LOCAL-00242" summary="script that creates the MySQL server user user_0d_1.">
+      <created>1662574161287</created>
+      <option name="number" value="00242" />
+      <option name="presentableId" value="LOCAL-00242" />
+      <option name="project" value="LOCAL" />
+      <updated>1662574161287</updated>
+    </task>
+    <task id="LOCAL-00243" summary="script that creates the MySQL server user user_0d_1.">
+      <created>1662575256893</created>
+      <option name="number" value="00243" />
+      <option name="presentableId" value="LOCAL-00243" />
+      <option name="project" value="LOCAL" />
+      <updated>1662575256893</updated>
+    </task>
+    <task id="LOCAL-00244" summary="script that creates the MySQL server user user_0d_1.">
+      <created>1662575334403</created>
+      <option name="number" value="00244" />
+      <option name="presentableId" value="LOCAL-00244" />
+      <option name="project" value="LOCAL" />
+      <updated>1662575334403</updated>
+    </task>
+    <task id="LOCAL-00245" summary="script that creates the MySQL server user user_0d_1.">
+      <created>1662575419999</created>
+      <option name="number" value="00245" />
+      <option name="presentableId" value="LOCAL-00245" />
+      <option name="project" value="LOCAL" />
+      <updated>1662575419999</updated>
+    </task>
+    <task id="LOCAL-00246" summary="script that creates the database hbtn_0d_2 and the user user_0d_2.">
+      <created>1662575555014</created>
+      <option name="number" value="00246" />
+      <option name="presentableId" value="LOCAL-00246" />
+      <option name="project" value="LOCAL" />
+      <updated>1662575555015</updated>
+    </task>
+    <task id="LOCAL-00247" summary="script that creates the database hbtn_0d_2 and the user user_0d_2.">
+      <created>1662575642915</created>
+      <option name="number" value="00247" />
+      <option name="presentableId" value="LOCAL-00247" />
+      <option name="project" value="LOCAL" />
+      <updated>1662575642915</updated>
+    </task>
+    <task id="LOCAL-00248" summary="script that creates the table force_name on your MySQL server.">
+      <created>1662575763399</created>
+      <option name="number" value="00248" />
+      <option name="presentableId" value="LOCAL-00248" />
+      <option name="project" value="LOCAL" />
+      <updated>1662575763399</updated>
+    </task>
+    <task id="LOCAL-00249" summary="script that creates the table id_not_null on your MySQL server.">
+      <created>1662575907960</created>
+      <option name="number" value="00249" />
+      <option name="presentableId" value="LOCAL-00249" />
+      <option name="project" value="LOCAL" />
+      <updated>1662575907960</updated>
+    </task>
+    <task id="LOCAL-00250" summary="script that creates the table unique_id on your MySQL server.">
+      <created>1662576426114</created>
+      <option name="number" value="00250" />
+      <option name="presentableId" value="LOCAL-00250" />
+      <option name="project" value="LOCAL" />
+      <updated>1662576426114</updated>
+    </task>
+    <task id="LOCAL-00251" summary="script that creates the table unique_id on your MySQL server.">
+      <created>1662576510087</created>
+      <option name="number" value="00251" />
+      <option name="presentableId" value="LOCAL-00251" />
+      <option name="project" value="LOCAL" />
+      <updated>1662576510088</updated>
+    </task>
+    <task id="LOCAL-00252" summary="script that creates the table unique_id on your MySQL server.">
+      <created>1662576559330</created>
+      <option name="number" value="00252" />
+      <option name="presentableId" value="LOCAL-00252" />
+      <option name="project" value="LOCAL" />
+      <updated>1662576559330</updated>
+    </task>
+    <task id="LOCAL-00253" summary="script that creates the database hbtn_0d_usa and the table states (in the database hbtn_0d_usa) on your MySQL server.">
+      <created>1662576832408</created>
+      <option name="number" value="00253" />
+      <option name="presentableId" value="LOCAL-00253" />
+      <option name="project" value="LOCAL" />
+      <updated>1662576832408</updated>
+    </task>
+    <task id="LOCAL-00254" summary="script that creates the database hbtn_0d_usa and the table cities (in the database hbtn_0d_usa) on your MySQL server.">
+      <created>1662576980766</created>
+      <option name="number" value="00254" />
+      <option name="presentableId" value="LOCAL-00254" />
+      <option name="project" value="LOCAL" />
+      <updated>1662576980766</updated>
+    </task>
+    <task id="LOCAL-00255" summary="script that lists all the cities of California that can be found in the database hbtn_0d_usa.">
+      <created>1662577060097</created>
+      <option name="number" value="00255" />
+      <option name="presentableId" value="LOCAL-00255" />
+      <option name="project" value="LOCAL" />
+      <updated>1662577060097</updated>
+    </task>
+    <task id="LOCAL-00256" summary="script that lists all cities contained in the database hbtn_0d_usa.">
+      <created>1662577373709</created>
+      <option name="number" value="00256" />
+      <option name="presentableId" value="LOCAL-00256" />
+      <option name="project" value="LOCAL" />
+      <updated>1662577373709</updated>
+    </task>
+    <task id="LOCAL-00257" summary="script that lists all shows contained in hbtn_0d_tvshows that have at least one genre linked.">
+      <created>1662577618007</created>
+      <option name="number" value="00257" />
+      <option name="presentableId" value="LOCAL-00257" />
+      <option name="project" value="LOCAL" />
+      <updated>1662577618007</updated>
+    </task>
+    <task id="LOCAL-00258" summary="script that lists all shows contained in the database hbtn_0d_tvshows.">
+      <created>1662577729479</created>
+      <option name="number" value="00258" />
+      <option name="presentableId" value="LOCAL-00258" />
+      <option name="project" value="LOCAL" />
+      <updated>1662577729480</updated>
+    </task>
+    <task id="LOCAL-00259" summary="script that lists all shows contained in hbtn_0d_tvshows without a genre linked.">
+      <created>1662577909291</created>
+      <option name="number" value="00259" />
+      <option name="presentableId" value="LOCAL-00259" />
+      <option name="project" value="LOCAL" />
+      <updated>1662577909292</updated>
+    </task>
+    <task id="LOCAL-00260" summary="script that lists all genres from hbtn_0d_tvshows and displays the number of shows linked to each.">
+      <created>1662577987139</created>
+      <option name="number" value="00260" />
+      <option name="presentableId" value="LOCAL-00260" />
+      <option name="project" value="LOCAL" />
+      <updated>1662577987139</updated>
+    </task>
+    <task id="LOCAL-00261" summary="script that uses the hbtn_0d_tvshows database to lists all genres of the show Dexter.">
+      <created>1662578077837</created>
+      <option name="number" value="00261" />
+      <option name="presentableId" value="LOCAL-00261" />
+      <option name="project" value="LOCAL" />
+      <updated>1662578077837</updated>
+    </task>
+    <task id="LOCAL-00262" summary="script that lists all Comedy shows in the database hbtn_0d_tvshows.">
+      <created>1662578230837</created>
+      <option name="number" value="00262" />
+      <option name="presentableId" value="LOCAL-00262" />
+      <option name="project" value="LOCAL" />
+      <updated>1662578230837</updated>
+    </task>
+    <task id="LOCAL-00263" summary="script that lists all shows, and all genres linked to that show, from the database hbtn_0d_tvshows.">
+      <created>1662578314104</created>
+      <option name="number" value="00263" />
+      <option name="presentableId" value="LOCAL-00263" />
+      <option name="project" value="LOCAL" />
+      <updated>1662578314104</updated>
+    </task>
+    <task id="LOCAL-00264" summary="script that uses the hbtn_0d_tvshows database to list all genres not linked to the show Dexter">
+      <created>1662578496880</created>
+      <option name="number" value="00264" />
+      <option name="presentableId" value="LOCAL-00264" />
+      <option name="project" value="LOCAL" />
+      <updated>1662578496880</updated>
+    </task>
+    <task id="LOCAL-00265" summary="script that lists all shows without the genre Comedy in the database hbtn_0d_tvshows">
+      <created>1662578608189</created>
+      <option name="number" value="00265" />
+      <option name="presentableId" value="LOCAL-00265" />
+      <option name="project" value="LOCAL" />
+      <updated>1662578608189</updated>
+    </task>
+    <task id="LOCAL-00266" summary="script that lists all shows from hbtn_0d_tvshows_rate by their rating.">
+      <created>1662578771637</created>
+      <option name="number" value="00266" />
+      <option name="presentableId" value="LOCAL-00266" />
+      <option name="project" value="LOCAL" />
+      <updated>1662578771637</updated>
+    </task>
+    <task id="LOCAL-00267" summary="script that lists all genres in the database hbtn_0d_tvshows_rate by their rating.">
+      <created>1662578881108</created>
+      <option name="number" value="00267" />
+      <option name="presentableId" value="LOCAL-00267" />
+      <option name="project" value="LOCAL" />
+      <updated>1662578881109</updated>
+    </task>
+    <option name="localTasksCounter" value="268" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="script that displays the max temperature of each state (ordered by State name)." />
+    <MESSAGE value="This is the read me file" />
+    <MESSAGE value="This is the summary project" />
+    <MESSAGE value="This is the SQL files" />
+    <MESSAGE value="script that lists all privileges of the MySQL users user_0d_1 and user_0d_2 on your server (in localhost)." />
+    <MESSAGE value="script that creates the MySQL server user user_0d_1." />
+    <MESSAGE value="script that creates the database hbtn_0d_2 and the user user_0d_2." />
+    <MESSAGE value="script that creates the table force_name on your MySQL server." />
+    <MESSAGE value="script that creates the table id_not_null on your MySQL server." />
+    <MESSAGE value="script that creates the table unique_id on your MySQL server." />
+    <MESSAGE value="script that creates the database hbtn_0d_usa and the table states (in the database hbtn_0d_usa) on your MySQL server." />
+    <MESSAGE value="script that creates the database hbtn_0d_usa and the table cities (in the database hbtn_0d_usa) on your MySQL server." />
+    <MESSAGE value="script that lists all the cities of California that can be found in the database hbtn_0d_usa." />
+    <MESSAGE value="script that lists all cities contained in the database hbtn_0d_usa." />
+    <MESSAGE value="script that lists all shows contained in hbtn_0d_tvshows that have at least one genre linked." />
+    <MESSAGE value="script that lists all shows contained in the database hbtn_0d_tvshows." />
+    <MESSAGE value="script that lists all shows contained in hbtn_0d_tvshows without a genre linked." />
+    <MESSAGE value="script that lists all genres from hbtn_0d_tvshows and displays the number of shows linked to each." />
+    <MESSAGE value="script that uses the hbtn_0d_tvshows database to lists all genres of the show Dexter." />
+    <MESSAGE value="script that lists all Comedy shows in the database hbtn_0d_tvshows." />
+    <MESSAGE value="script that lists all shows, and all genres linked to that show, from the database hbtn_0d_tvshows." />
+    <MESSAGE value="script that uses the hbtn_0d_tvshows database to list all genres not linked to the show Dexter" />
+    <MESSAGE value="script that lists all shows without the genre Comedy in the database hbtn_0d_tvshows" />
+    <MESSAGE value="script that lists all shows from hbtn_0d_tvshows_rate by their rating." />
+    <MESSAGE value="script that lists all genres in the database hbtn_0d_tvshows_rate by their rating." />
+    <option name="LAST_COMMIT_MESSAGE" value="script that lists all genres in the database hbtn_0d_tvshows_rate by their rating." />
+  </component>
+</project>

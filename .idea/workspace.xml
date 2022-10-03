@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="script that lists all genres in the database hbtn_0d_tvshows_rate by their rating.">
-      <change afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/0-javascript_is_amazing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/README.md" afterDir="false" />
+    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="script that prints 3 lines:">
+      <change afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/100-let_me_const.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/101-call_me_moby.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/102-add_me_maybe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/103-object_fct.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-javascript-warm_up/10-factorial.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/10-factorial.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-javascript-warm_up/11-second_biggest.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/11-second_biggest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-javascript-warm_up/12-object.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/12-object.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-javascript-warm_up/13-add.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/13-add.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-javascript-warm_up/2-arguments.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/2-arguments.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-javascript-warm_up/3-value_argument.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/3-value_argument.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-javascript-warm_up/4-concat.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/4-concat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-javascript-warm_up/5-to_integer.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/5-to_integer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-javascript-warm_up/6-multi_languages_loop.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/6-multi_languages_loop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-javascript-warm_up/7-multi_c.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/7-multi_c.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-javascript-warm_up/8-square.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/8-square.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-javascript-warm_up/9-add.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/9-add.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-javascript-warm_up/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,17 +43,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ToolWindowGit.ShowToolbar": "false",
-    "last_opened_file_path": "/home/intelligence/alx-higher_level_programming",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindowGit.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/intelligence/alx-higher_level_programming&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -172,34 +188,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656428246784</updated>
-    </task>
-    <task id="LOCAL-00219" summary="script that prints the full description of the table first_table from the database hbtn_0c_0 in your MySQL server.">
-      <created>1662483139042</created>
-      <option name="number" value="00219" />
-      <option name="presentableId" value="LOCAL-00219" />
-      <option name="project" value="LOCAL" />
-      <updated>1662483139042</updated>
-    </task>
-    <task id="LOCAL-00220" summary="script that prints the full description of the table first_table from the database hbtn_0c_0 in your MySQL server.">
-      <created>1662483348288</created>
-      <option name="number" value="00220" />
-      <option name="presentableId" value="LOCAL-00220" />
-      <option name="project" value="LOCAL" />
-      <updated>1662483348288</updated>
-    </task>
-    <task id="LOCAL-00221" summary="script that inserts a new row in the table first_table (database hbtn_0c_0) in your MySQL server.">
-      <created>1662483482970</created>
-      <option name="number" value="00221" />
-      <option name="presentableId" value="LOCAL-00221" />
-      <option name="project" value="LOCAL" />
-      <updated>1662483482970</updated>
-    </task>
-    <task id="LOCAL-00222" summary="script that inserts a new row in the table first_table (database hbtn_0c_0) in your MySQL server.">
-      <created>1662483561609</created>
-      <option name="number" value="00222" />
-      <option name="presentableId" value="LOCAL-00222" />
-      <option name="project" value="LOCAL" />
-      <updated>1662483561609</updated>
     </task>
     <task id="LOCAL-00223" summary="script that displays the number of records with id = 89 in the table first_table of the database hbtn_0c_0 in your MySQL server.">
       <created>1662483658106</created>
@@ -516,7 +504,35 @@
       <option name="project" value="LOCAL" />
       <updated>1662578881109</updated>
     </task>
-    <option name="localTasksCounter" value="268" />
+    <task id="LOCAL-00268" summary="javascript style check files">
+      <created>1664824232279</created>
+      <option name="number" value="00268" />
+      <option name="presentableId" value="LOCAL-00268" />
+      <option name="project" value="LOCAL" />
+      <updated>1664824232280</updated>
+    </task>
+    <task id="LOCAL-00269" summary="javascript style check files">
+      <created>1664824263064</created>
+      <option name="number" value="00269" />
+      <option name="presentableId" value="LOCAL-00269" />
+      <option name="project" value="LOCAL" />
+      <updated>1664824263064</updated>
+    </task>
+    <task id="LOCAL-00270" summary="a script that prints “JavaScript is amazing”:">
+      <created>1664825285831</created>
+      <option name="number" value="00270" />
+      <option name="presentableId" value="LOCAL-00270" />
+      <option name="project" value="LOCAL" />
+      <updated>1664825285832</updated>
+    </task>
+    <task id="LOCAL-00271" summary="script that prints 3 lines:">
+      <created>1664826128254</created>
+      <option name="number" value="00271" />
+      <option name="presentableId" value="LOCAL-00271" />
+      <option name="project" value="LOCAL" />
+      <updated>1664826128255</updated>
+    </task>
+    <option name="localTasksCounter" value="272" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -544,9 +560,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="script that displays the max temperature of each state (ordered by State name)." />
-    <MESSAGE value="This is the read me file" />
-    <MESSAGE value="This is the summary project" />
     <MESSAGE value="This is the SQL files" />
     <MESSAGE value="script that lists all privileges of the MySQL users user_0d_1 and user_0d_2 on your server (in localhost)." />
     <MESSAGE value="script that creates the MySQL server user user_0d_1." />
@@ -569,6 +582,9 @@
     <MESSAGE value="script that lists all shows without the genre Comedy in the database hbtn_0d_tvshows" />
     <MESSAGE value="script that lists all shows from hbtn_0d_tvshows_rate by their rating." />
     <MESSAGE value="script that lists all genres in the database hbtn_0d_tvshows_rate by their rating." />
-    <option name="LAST_COMMIT_MESSAGE" value="script that lists all genres in the database hbtn_0d_tvshows_rate by their rating." />
+    <MESSAGE value="javascript style check files" />
+    <MESSAGE value="a script that prints “JavaScript is amazing”:" />
+    <MESSAGE value="script that prints 3 lines:" />
+    <option name="LAST_COMMIT_MESSAGE" value="script that prints 3 lines:" />
   </component>
 </project>

@@ -1,25 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="script that prints 3 lines:">
-      <change afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/100-let_me_const.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/101-call_me_moby.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/102-add_me_maybe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/103-object_fct.js" afterDir="false" />
+    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="script that prints javascript is amazing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x12-javascript-warm_up/10-factorial.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/10-factorial.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x12-javascript-warm_up/11-second_biggest.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/11-second_biggest.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x12-javascript-warm_up/12-object.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/12-object.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x12-javascript-warm_up/13-add.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/13-add.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x12-javascript-warm_up/2-arguments.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/2-arguments.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x12-javascript-warm_up/3-value_argument.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/3-value_argument.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x12-javascript-warm_up/4-concat.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/4-concat.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x12-javascript-warm_up/5-to_integer.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/5-to_integer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x12-javascript-warm_up/6-multi_languages_loop.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/6-multi_languages_loop.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x12-javascript-warm_up/7-multi_c.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/7-multi_c.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x12-javascript-warm_up/8-square.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/8-square.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x12-javascript-warm_up/9-add.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/9-add.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x12-javascript-warm_up/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,34 +171,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656428246784</updated>
-    </task>
-    <task id="LOCAL-00223" summary="script that displays the number of records with id = 89 in the table first_table of the database hbtn_0c_0 in your MySQL server.">
-      <created>1662483658106</created>
-      <option name="number" value="00223" />
-      <option name="presentableId" value="LOCAL-00223" />
-      <option name="project" value="LOCAL" />
-      <updated>1662483658106</updated>
-    </task>
-    <task id="LOCAL-00224" summary="script that creates a table second_table in the database hbtn_0c_0 in your MySQL server and add multiples rows.">
-      <created>1662483864399</created>
-      <option name="number" value="00224" />
-      <option name="presentableId" value="LOCAL-00224" />
-      <option name="project" value="LOCAL" />
-      <updated>1662483864399</updated>
-    </task>
-    <task id="LOCAL-00225" summary="script that lists all records of the table second_table of the database hbtn_0c_0 in your MySQL server.">
-      <created>1662484197104</created>
-      <option name="number" value="00225" />
-      <option name="presentableId" value="LOCAL-00225" />
-      <option name="project" value="LOCAL" />
-      <updated>1662484197104</updated>
-    </task>
-    <task id="LOCAL-00226" summary="script that lists all records with a score &gt;= 10 in the table second_table of the database hbtn_0c_0 in your MySQL server.">
-      <created>1662484560188</created>
-      <option name="number" value="00226" />
-      <option name="presentableId" value="LOCAL-00226" />
-      <option name="project" value="LOCAL" />
-      <updated>1662484560188</updated>
     </task>
     <task id="LOCAL-00227" summary="script that updates the score of Bob to 10 in the table second_table.">
       <created>1662484797655</created>
@@ -532,7 +487,35 @@
       <option name="project" value="LOCAL" />
       <updated>1664826128255</updated>
     </task>
-    <option name="localTasksCounter" value="272" />
+    <task id="LOCAL-00272" summary="Javascript files">
+      <created>1664826291244</created>
+      <option name="number" value="00272" />
+      <option name="presentableId" value="LOCAL-00272" />
+      <option name="project" value="LOCAL" />
+      <updated>1664826291244</updated>
+    </task>
+    <task id="LOCAL-00273" summary="script that prints 3 lines:">
+      <created>1664826789732</created>
+      <option name="number" value="00273" />
+      <option name="presentableId" value="LOCAL-00273" />
+      <option name="project" value="LOCAL" />
+      <updated>1664826789732</updated>
+    </task>
+    <task id="LOCAL-00274" summary="script that prints 3 lines:">
+      <created>1664826837309</created>
+      <option name="number" value="00274" />
+      <option name="presentableId" value="LOCAL-00274" />
+      <option name="project" value="LOCAL" />
+      <updated>1664826837309</updated>
+    </task>
+    <task id="LOCAL-00275" summary="script that prints javascript is amazing">
+      <created>1664826882553</created>
+      <option name="number" value="00275" />
+      <option name="presentableId" value="LOCAL-00275" />
+      <option name="project" value="LOCAL" />
+      <updated>1664826882553</updated>
+    </task>
+    <option name="localTasksCounter" value="276" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -560,8 +543,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="This is the SQL files" />
-    <MESSAGE value="script that lists all privileges of the MySQL users user_0d_1 and user_0d_2 on your server (in localhost)." />
     <MESSAGE value="script that creates the MySQL server user user_0d_1." />
     <MESSAGE value="script that creates the database hbtn_0d_2 and the user user_0d_2." />
     <MESSAGE value="script that creates the table force_name on your MySQL server." />
@@ -584,7 +565,9 @@
     <MESSAGE value="script that lists all genres in the database hbtn_0d_tvshows_rate by their rating." />
     <MESSAGE value="javascript style check files" />
     <MESSAGE value="a script that prints “JavaScript is amazing”:" />
+    <MESSAGE value="Javascript files" />
     <MESSAGE value="script that prints 3 lines:" />
-    <option name="LAST_COMMIT_MESSAGE" value="script that prints 3 lines:" />
+    <MESSAGE value="script that prints javascript is amazing" />
+    <option name="LAST_COMMIT_MESSAGE" value="script that prints javascript is amazing" />
   </component>
 </project>

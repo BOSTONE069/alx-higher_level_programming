@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="script that prints javascript is amazing" />
+    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="script that prints javascript is amazing">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-javascript-warm_up/100-let_me_const.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/100-let_me_const.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x12-javascript-warm_up/103-object_fct.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x12-javascript-warm_up/103-object_fct.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,27 +173,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656428246784</updated>
-    </task>
-    <task id="LOCAL-00229" summary="script that computes the score average of all records in the table second_table of the database hbtn_0c_0 in your MySQL server.">
-      <created>1662485155062</created>
-      <option name="number" value="00229" />
-      <option name="presentableId" value="LOCAL-00229" />
-      <option name="project" value="LOCAL" />
-      <updated>1662485155062</updated>
-    </task>
-    <task id="LOCAL-00230" summary="script that lists the number of records with the same score in the table second_table of the database hbtn_0c_0 in your MySQL server.">
-      <created>1662485327581</created>
-      <option name="number" value="00230" />
-      <option name="presentableId" value="LOCAL-00230" />
-      <option name="project" value="LOCAL" />
-      <updated>1662485327581</updated>
-    </task>
-    <task id="LOCAL-00231" summary="script that lists all records of the table second_table of the database hbtn_0c_0 in your MySQL server.">
-      <created>1662485427919</created>
-      <option name="number" value="00231" />
-      <option name="presentableId" value="LOCAL-00231" />
-      <option name="project" value="LOCAL" />
-      <updated>1662485427919</updated>
     </task>
     <task id="LOCAL-00232" summary="script that converts hbtn_0c_0 database to UTF8 (utf8mb4, collate utf8mb4_unicode_ci) in your MySQL server.">
       <created>1662485638598</created>
@@ -513,7 +496,28 @@
       <option name="project" value="LOCAL" />
       <updated>1664827427643</updated>
     </task>
-    <option name="localTasksCounter" value="278" />
+    <task id="LOCAL-00278" summary="script that prints javascript is amazing">
+      <created>1664827706423</created>
+      <option name="number" value="00278" />
+      <option name="presentableId" value="LOCAL-00278" />
+      <option name="project" value="LOCAL" />
+      <updated>1664827706423</updated>
+    </task>
+    <task id="LOCAL-00279" summary="script that prints javascript is amazing">
+      <created>1664827884388</created>
+      <option name="number" value="00279" />
+      <option name="presentableId" value="LOCAL-00279" />
+      <option name="project" value="LOCAL" />
+      <updated>1664827884388</updated>
+    </task>
+    <task id="LOCAL-00280" summary="script that prints javascript is amazing">
+      <created>1664827974973</created>
+      <option name="number" value="00280" />
+      <option name="presentableId" value="LOCAL-00280" />
+      <option name="project" value="LOCAL" />
+      <updated>1664827974973</updated>
+    </task>
+    <option name="localTasksCounter" value="281" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

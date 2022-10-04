@@ -5,4 +5,3 @@ exports.esrever = function (list) {
   list.forEach(element => listCopy.unshift(element));
   return listCopy;
 };
-

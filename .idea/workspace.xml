@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa">
+    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="script that lists all cities from the database hbtn_0e_4_usa">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x0F-python-object_relational_mapping/2-my_filter_states.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0F-python-object_relational_mapping/2-my_filter_states.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,41 +179,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656428246784</updated>
-    </task>
-    <task id="LOCAL-00244" summary="script that creates the MySQL server user user_0d_1.">
-      <created>1662575334403</created>
-      <option name="number" value="00244" />
-      <option name="presentableId" value="LOCAL-00244" />
-      <option name="project" value="LOCAL" />
-      <updated>1662575334403</updated>
-    </task>
-    <task id="LOCAL-00245" summary="script that creates the MySQL server user user_0d_1.">
-      <created>1662575419999</created>
-      <option name="number" value="00245" />
-      <option name="presentableId" value="LOCAL-00245" />
-      <option name="project" value="LOCAL" />
-      <updated>1662575419999</updated>
-    </task>
-    <task id="LOCAL-00246" summary="script that creates the database hbtn_0d_2 and the user user_0d_2.">
-      <created>1662575555014</created>
-      <option name="number" value="00246" />
-      <option name="presentableId" value="LOCAL-00246" />
-      <option name="project" value="LOCAL" />
-      <updated>1662575555015</updated>
-    </task>
-    <task id="LOCAL-00247" summary="script that creates the database hbtn_0d_2 and the user user_0d_2.">
-      <created>1662575642915</created>
-      <option name="number" value="00247" />
-      <option name="presentableId" value="LOCAL-00247" />
-      <option name="project" value="LOCAL" />
-      <updated>1662575642915</updated>
-    </task>
-    <task id="LOCAL-00248" summary="script that creates the table force_name on your MySQL server.">
-      <created>1662575763399</created>
-      <option name="number" value="00248" />
-      <option name="presentableId" value="LOCAL-00248" />
-      <option name="project" value="LOCAL" />
-      <updated>1662575763399</updated>
     </task>
     <task id="LOCAL-00249" summary="script that creates the table id_not_null on your MySQL server.">
       <created>1662575907960</created>
@@ -524,7 +488,42 @@
       <option name="project" value="LOCAL" />
       <updated>1665332481865</updated>
     </task>
-    <option name="localTasksCounter" value="293" />
+    <task id="LOCAL-00293" summary="script that takes in an argument and displays all values in the states table of hbtn_0e_0_usa where name matches the argument.">
+      <created>1665332628963</created>
+      <option name="number" value="00293" />
+      <option name="presentableId" value="LOCAL-00293" />
+      <option name="project" value="LOCAL" />
+      <updated>1665332628963</updated>
+    </task>
+    <task id="LOCAL-00294" summary="script that takes in an argument and displays all values in the states table of hbtn_0e_0_usa where name matches the argument.">
+      <created>1665332639443</created>
+      <option name="number" value="00294" />
+      <option name="presentableId" value="LOCAL-00294" />
+      <option name="project" value="LOCAL" />
+      <updated>1665332639444</updated>
+    </task>
+    <task id="LOCAL-00295" summary="a script that takes in arguments and displays all values in the states table of hbtn_0e_0_usa where name matches the argument. But this time, write one that is safe from MySQL injections!">
+      <created>1665332847178</created>
+      <option name="number" value="00295" />
+      <option name="presentableId" value="LOCAL-00295" />
+      <option name="project" value="LOCAL" />
+      <updated>1665332847178</updated>
+    </task>
+    <task id="LOCAL-00296" summary="a script that takes in arguments and displays all values in the states table of hbtn_0e_0_usa where name matches the argument. But this time, write one that is safe from MySQL injections!">
+      <created>1665333017776</created>
+      <option name="number" value="00296" />
+      <option name="presentableId" value="LOCAL-00296" />
+      <option name="project" value="LOCAL" />
+      <updated>1665333017776</updated>
+    </task>
+    <task id="LOCAL-00297" summary="script that lists all cities from the database hbtn_0e_4_usa">
+      <created>1665339959584</created>
+      <option name="number" value="00297" />
+      <option name="presentableId" value="LOCAL-00297" />
+      <option name="project" value="LOCAL" />
+      <updated>1665339959585</updated>
+    </task>
+    <option name="localTasksCounter" value="298" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -552,9 +551,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="script that creates the table id_not_null on your MySQL server." />
-    <MESSAGE value="script that creates the table unique_id on your MySQL server." />
-    <MESSAGE value="script that creates the database hbtn_0d_usa and the table states (in the database hbtn_0d_usa) on your MySQL server." />
     <MESSAGE value="script that creates the database hbtn_0d_usa and the table cities (in the database hbtn_0d_usa) on your MySQL server." />
     <MESSAGE value="script that lists all the cities of California that can be found in the database hbtn_0d_usa." />
     <MESSAGE value="script that lists all cities contained in the database hbtn_0d_usa." />
@@ -577,6 +573,9 @@
     <MESSAGE value="This is python object relational mapping" />
     <MESSAGE value="script that lists all states from the database hbtn_0e_0_usa" />
     <MESSAGE value="script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa" />
-    <option name="LAST_COMMIT_MESSAGE" value="script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa" />
+    <MESSAGE value="script that takes in an argument and displays all values in the states table of hbtn_0e_0_usa where name matches the argument." />
+    <MESSAGE value="a script that takes in arguments and displays all values in the states table of hbtn_0e_0_usa where name matches the argument. But this time, write one that is safe from MySQL injections!" />
+    <MESSAGE value="script that lists all cities from the database hbtn_0e_4_usa" />
+    <option name="LAST_COMMIT_MESSAGE" value="script that lists all cities from the database hbtn_0e_4_usa" />
   </component>
 </project>

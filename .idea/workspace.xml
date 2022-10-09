@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="script that prints javascript is amazing">
-      <change afterPath="$PROJECT_DIR$/0x0F-python-object_relational_mapping/0-select_states.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0F-python-object_relational_mapping/1-filter_states.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0F-python-object_relational_mapping/10-model_state_my_get.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0F-python-object_relational_mapping/11-model_state_insert.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0F-python-object_relational_mapping/12-model_state_update_id_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0F-python-object_relational_mapping/2-my_filter_states.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0F-python-object_relational_mapping/3-my_safe_filter_states.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0F-python-object_relational_mapping/4-cities_by_state.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0F-python-object_relational_mapping/5-filter_cities.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0F-python-object_relational_mapping/7-model_state_fetch_all.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0F-python-object_relational_mapping/8-model_state_fetch_first.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0F-python-object_relational_mapping/9-model_state_filter_a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0F-python-object_relational_mapping/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x0F-python-object_relational_mapping/model_state.py" afterDir="false" />
+    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0F-python-object_relational_mapping/2-my_filter_states.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0F-python-object_relational_mapping/2-my_filter_states.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,76 +180,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656428246784</updated>
-    </task>
-    <task id="LOCAL-00234" summary="script that displays the average temperature (Fahrenheit) by city ordered by temperature (descending).">
-      <created>1662486111751</created>
-      <option name="number" value="00234" />
-      <option name="presentableId" value="LOCAL-00234" />
-      <option name="project" value="LOCAL" />
-      <updated>1662486111751</updated>
-    </task>
-    <task id="LOCAL-00235" summary="script that displays the top 3 of cities temperature during July and August ordered by temperature (descending)">
-      <created>1662486177345</created>
-      <option name="number" value="00235" />
-      <option name="presentableId" value="LOCAL-00235" />
-      <option name="project" value="LOCAL" />
-      <updated>1662486177345</updated>
-    </task>
-    <task id="LOCAL-00236" summary="script that displays the max temperature of each state (ordered by State name).">
-      <created>1662486427480</created>
-      <option name="number" value="00236" />
-      <option name="presentableId" value="LOCAL-00236" />
-      <option name="project" value="LOCAL" />
-      <updated>1662486427480</updated>
-    </task>
-    <task id="LOCAL-00237" summary="This is the read me file">
-      <created>1662486453369</created>
-      <option name="number" value="00237" />
-      <option name="presentableId" value="LOCAL-00237" />
-      <option name="project" value="LOCAL" />
-      <updated>1662486453369</updated>
-    </task>
-    <task id="LOCAL-00238" summary="This is the summary project">
-      <created>1662486496924</created>
-      <option name="number" value="00238" />
-      <option name="presentableId" value="LOCAL-00238" />
-      <option name="project" value="LOCAL" />
-      <updated>1662486496924</updated>
-    </task>
-    <task id="LOCAL-00239" summary="This is the summary project">
-      <created>1662486509373</created>
-      <option name="number" value="00239" />
-      <option name="presentableId" value="LOCAL-00239" />
-      <option name="project" value="LOCAL" />
-      <updated>1662486509373</updated>
-    </task>
-    <task id="LOCAL-00240" summary="This is the SQL files">
-      <created>1662572801754</created>
-      <option name="number" value="00240" />
-      <option name="presentableId" value="LOCAL-00240" />
-      <option name="project" value="LOCAL" />
-      <updated>1662572801755</updated>
-    </task>
-    <task id="LOCAL-00241" summary="script that lists all privileges of the MySQL users user_0d_1 and user_0d_2 on your server (in localhost).">
-      <created>1662573676036</created>
-      <option name="number" value="00241" />
-      <option name="presentableId" value="LOCAL-00241" />
-      <option name="project" value="LOCAL" />
-      <updated>1662573676036</updated>
-    </task>
-    <task id="LOCAL-00242" summary="script that creates the MySQL server user user_0d_1.">
-      <created>1662574161287</created>
-      <option name="number" value="00242" />
-      <option name="presentableId" value="LOCAL-00242" />
-      <option name="project" value="LOCAL" />
-      <updated>1662574161287</updated>
-    </task>
-    <task id="LOCAL-00243" summary="script that creates the MySQL server user user_0d_1.">
-      <created>1662575256893</created>
-      <option name="number" value="00243" />
-      <option name="presentableId" value="LOCAL-00243" />
-      <option name="project" value="LOCAL" />
-      <updated>1662575256893</updated>
     </task>
     <task id="LOCAL-00244" summary="script that creates the MySQL server user user_0d_1.">
       <created>1662575334403</created>
@@ -537,7 +454,77 @@
       <option name="project" value="LOCAL" />
       <updated>1665088518369</updated>
     </task>
-    <option name="localTasksCounter" value="283" />
+    <task id="LOCAL-00283" summary="This is python object relational mapping">
+      <created>1665278276713</created>
+      <option name="number" value="00283" />
+      <option name="presentableId" value="LOCAL-00283" />
+      <option name="project" value="LOCAL" />
+      <updated>1665278276714</updated>
+    </task>
+    <task id="LOCAL-00284" summary="script that lists all states from the database hbtn_0e_0_usa">
+      <created>1665278500040</created>
+      <option name="number" value="00284" />
+      <option name="presentableId" value="LOCAL-00284" />
+      <option name="project" value="LOCAL" />
+      <updated>1665278500040</updated>
+    </task>
+    <task id="LOCAL-00285" summary="script that lists all states from the database hbtn_0e_0_usa">
+      <created>1665330935251</created>
+      <option name="number" value="00285" />
+      <option name="presentableId" value="LOCAL-00285" />
+      <option name="project" value="LOCAL" />
+      <updated>1665330935252</updated>
+    </task>
+    <task id="LOCAL-00286" summary="script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa">
+      <created>1665331832235</created>
+      <option name="number" value="00286" />
+      <option name="presentableId" value="LOCAL-00286" />
+      <option name="project" value="LOCAL" />
+      <updated>1665331832235</updated>
+    </task>
+    <task id="LOCAL-00287" summary="script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa">
+      <created>1665331952408</created>
+      <option name="number" value="00287" />
+      <option name="presentableId" value="LOCAL-00287" />
+      <option name="project" value="LOCAL" />
+      <updated>1665331952408</updated>
+    </task>
+    <task id="LOCAL-00288" summary="script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa">
+      <created>1665332049505</created>
+      <option name="number" value="00288" />
+      <option name="presentableId" value="LOCAL-00288" />
+      <option name="project" value="LOCAL" />
+      <updated>1665332049505</updated>
+    </task>
+    <task id="LOCAL-00289" summary="script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa">
+      <created>1665332241204</created>
+      <option name="number" value="00289" />
+      <option name="presentableId" value="LOCAL-00289" />
+      <option name="project" value="LOCAL" />
+      <updated>1665332241204</updated>
+    </task>
+    <task id="LOCAL-00290" summary="script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa">
+      <created>1665332288893</created>
+      <option name="number" value="00290" />
+      <option name="presentableId" value="LOCAL-00290" />
+      <option name="project" value="LOCAL" />
+      <updated>1665332288893</updated>
+    </task>
+    <task id="LOCAL-00291" summary="script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa">
+      <created>1665332399250</created>
+      <option name="number" value="00291" />
+      <option name="presentableId" value="LOCAL-00291" />
+      <option name="project" value="LOCAL" />
+      <updated>1665332399250</updated>
+    </task>
+    <task id="LOCAL-00292" summary="script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa">
+      <created>1665332481865</created>
+      <option name="number" value="00292" />
+      <option name="presentableId" value="LOCAL-00292" />
+      <option name="project" value="LOCAL" />
+      <updated>1665332481865</updated>
+    </task>
+    <option name="localTasksCounter" value="293" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -565,9 +552,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="script that creates the MySQL server user user_0d_1." />
-    <MESSAGE value="script that creates the database hbtn_0d_2 and the user user_0d_2." />
-    <MESSAGE value="script that creates the table force_name on your MySQL server." />
     <MESSAGE value="script that creates the table id_not_null on your MySQL server." />
     <MESSAGE value="script that creates the table unique_id on your MySQL server." />
     <MESSAGE value="script that creates the database hbtn_0d_usa and the table states (in the database hbtn_0d_usa) on your MySQL server." />
@@ -590,6 +574,9 @@
     <MESSAGE value="Javascript files" />
     <MESSAGE value="script that prints 3 lines:" />
     <MESSAGE value="script that prints javascript is amazing" />
-    <option name="LAST_COMMIT_MESSAGE" value="script that prints javascript is amazing" />
+    <MESSAGE value="This is python object relational mapping" />
+    <MESSAGE value="script that lists all states from the database hbtn_0e_0_usa" />
+    <MESSAGE value="script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa" />
+    <option name="LAST_COMMIT_MESSAGE" value="script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa" />
   </component>
 </project>

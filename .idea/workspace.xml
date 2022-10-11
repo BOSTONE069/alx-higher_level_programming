@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="script that prints the first State object from the database hbtn_0e_6_usa">
+    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="script that lists all City objects from the database hbtn_0e_101_usa">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x0F-python-object_relational_mapping/9-model_state_filter_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0F-python-object_relational_mapping/9-model_state_filter_a.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;ToolWindowGit.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/intelligence/Desktop/javascript crash course&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/intelligence/AirBnB_clone_v2&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
@@ -180,83 +179,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656428246784</updated>
-    </task>
-    <task id="LOCAL-00254" summary="script that creates the database hbtn_0d_usa and the table cities (in the database hbtn_0d_usa) on your MySQL server.">
-      <created>1662576980766</created>
-      <option name="number" value="00254" />
-      <option name="presentableId" value="LOCAL-00254" />
-      <option name="project" value="LOCAL" />
-      <updated>1662576980766</updated>
-    </task>
-    <task id="LOCAL-00255" summary="script that lists all the cities of California that can be found in the database hbtn_0d_usa.">
-      <created>1662577060097</created>
-      <option name="number" value="00255" />
-      <option name="presentableId" value="LOCAL-00255" />
-      <option name="project" value="LOCAL" />
-      <updated>1662577060097</updated>
-    </task>
-    <task id="LOCAL-00256" summary="script that lists all cities contained in the database hbtn_0d_usa.">
-      <created>1662577373709</created>
-      <option name="number" value="00256" />
-      <option name="presentableId" value="LOCAL-00256" />
-      <option name="project" value="LOCAL" />
-      <updated>1662577373709</updated>
-    </task>
-    <task id="LOCAL-00257" summary="script that lists all shows contained in hbtn_0d_tvshows that have at least one genre linked.">
-      <created>1662577618007</created>
-      <option name="number" value="00257" />
-      <option name="presentableId" value="LOCAL-00257" />
-      <option name="project" value="LOCAL" />
-      <updated>1662577618007</updated>
-    </task>
-    <task id="LOCAL-00258" summary="script that lists all shows contained in the database hbtn_0d_tvshows.">
-      <created>1662577729479</created>
-      <option name="number" value="00258" />
-      <option name="presentableId" value="LOCAL-00258" />
-      <option name="project" value="LOCAL" />
-      <updated>1662577729480</updated>
-    </task>
-    <task id="LOCAL-00259" summary="script that lists all shows contained in hbtn_0d_tvshows without a genre linked.">
-      <created>1662577909291</created>
-      <option name="number" value="00259" />
-      <option name="presentableId" value="LOCAL-00259" />
-      <option name="project" value="LOCAL" />
-      <updated>1662577909292</updated>
-    </task>
-    <task id="LOCAL-00260" summary="script that lists all genres from hbtn_0d_tvshows and displays the number of shows linked to each.">
-      <created>1662577987139</created>
-      <option name="number" value="00260" />
-      <option name="presentableId" value="LOCAL-00260" />
-      <option name="project" value="LOCAL" />
-      <updated>1662577987139</updated>
-    </task>
-    <task id="LOCAL-00261" summary="script that uses the hbtn_0d_tvshows database to lists all genres of the show Dexter.">
-      <created>1662578077837</created>
-      <option name="number" value="00261" />
-      <option name="presentableId" value="LOCAL-00261" />
-      <option name="project" value="LOCAL" />
-      <updated>1662578077837</updated>
-    </task>
-    <task id="LOCAL-00262" summary="script that lists all Comedy shows in the database hbtn_0d_tvshows.">
-      <created>1662578230837</created>
-      <option name="number" value="00262" />
-      <option name="presentableId" value="LOCAL-00262" />
-      <option name="project" value="LOCAL" />
-      <updated>1662578230837</updated>
-    </task>
-    <task id="LOCAL-00263" summary="script that lists all shows, and all genres linked to that show, from the database hbtn_0d_tvshows.">
-      <created>1662578314104</created>
-      <option name="number" value="00263" />
-      <option name="presentableId" value="LOCAL-00263" />
-      <option name="project" value="LOCAL" />
-      <updated>1662578314104</updated>
-    </task>
-    <task id="LOCAL-00264" summary="script that uses the hbtn_0d_tvshows database to list all genres not linked to the show Dexter">
-      <created>1662578496880</created>
-      <option name="number" value="00264" />
-      <option name="presentableId" value="LOCAL-00264" />
-      <option name="project" value="LOCAL" />
-      <updated>1662578496880</updated>
     </task>
     <task id="LOCAL-00265" summary="script that lists all shows without the genre Comedy in the database hbtn_0d_tvshows">
       <created>1662578608189</created>
@@ -524,7 +446,84 @@
       <option name="project" value="LOCAL" />
       <updated>1665340861293</updated>
     </task>
-    <option name="localTasksCounter" value="303" />
+    <task id="LOCAL-00303" summary="script that lists all State objects that contain the letter a from the database hbtn_0e_6_usa">
+      <created>1665341120529</created>
+      <option name="number" value="00303" />
+      <option name="presentableId" value="LOCAL-00303" />
+      <option name="project" value="LOCAL" />
+      <updated>1665341120529</updated>
+    </task>
+    <task id="LOCAL-00304" summary="script that lists all State objects that contain the letter a from the database hbtn_0e_6_usa">
+      <created>1665341131643</created>
+      <option name="number" value="00304" />
+      <option name="presentableId" value="LOCAL-00304" />
+      <option name="project" value="LOCAL" />
+      <updated>1665341131643</updated>
+    </task>
+    <task id="LOCAL-00305" summary="script that prints the State object with the name passed as argument from the database hbtn_0e_6_usa">
+      <created>1665341305924</created>
+      <option name="number" value="00305" />
+      <option name="presentableId" value="LOCAL-00305" />
+      <option name="project" value="LOCAL" />
+      <updated>1665341305924</updated>
+    </task>
+    <task id="LOCAL-00306" summary=" script that adds the State object “Louisiana” to the database hbtn_0e_6_usa">
+      <created>1665341735698</created>
+      <option name="number" value="00306" />
+      <option name="presentableId" value="LOCAL-00306" />
+      <option name="project" value="LOCAL" />
+      <updated>1665341735698</updated>
+    </task>
+    <task id="LOCAL-00307" summary="script that changes the name of a State object from the database hbtn_0e_6_usa">
+      <created>1665341890057</created>
+      <option name="number" value="00307" />
+      <option name="presentableId" value="LOCAL-00307" />
+      <option name="project" value="LOCAL" />
+      <updated>1665341890057</updated>
+    </task>
+    <task id="LOCAL-00308" summary="script that deletes all State objects with a name containing the letter a from the database hbtn_0e_6_usa">
+      <created>1665342491504</created>
+      <option name="number" value="00308" />
+      <option name="presentableId" value="LOCAL-00308" />
+      <option name="project" value="LOCAL" />
+      <updated>1665342491504</updated>
+    </task>
+    <task id="LOCAL-00309" summary="a script 14-model_city_fetch_by_state.py that prints all City objects from the database hbtn_0e_14_usa">
+      <created>1665343037405</created>
+      <option name="number" value="00309" />
+      <option name="presentableId" value="LOCAL-00309" />
+      <option name="project" value="LOCAL" />
+      <updated>1665343037405</updated>
+    </task>
+    <task id="LOCAL-00310" summary="a script 14-model_city_fetch_by_state.py that prints all City objects from the database hbtn_0e_14_usa">
+      <created>1665343105732</created>
+      <option name="number" value="00310" />
+      <option name="presentableId" value="LOCAL-00310" />
+      <option name="project" value="LOCAL" />
+      <updated>1665343105732</updated>
+    </task>
+    <task id="LOCAL-00311" summary="script that creates the State “California” with the City “San Francisco” from the database hbtn_0e_100_usa: (100-relationship_states_cities.py).">
+      <created>1665365089306</created>
+      <option name="number" value="00311" />
+      <option name="presentableId" value="LOCAL-00311" />
+      <option name="project" value="LOCAL" />
+      <updated>1665365089306</updated>
+    </task>
+    <task id="LOCAL-00312" summary="script that lists all State objects, and corresponding City objects, contained in the database hbtn_0e_101_usa.">
+      <created>1665365258010</created>
+      <option name="number" value="00312" />
+      <option name="presentableId" value="LOCAL-00312" />
+      <option name="project" value="LOCAL" />
+      <updated>1665365258010</updated>
+    </task>
+    <task id="LOCAL-00313" summary="script that lists all City objects from the database hbtn_0e_101_usa">
+      <created>1665366032483</created>
+      <option name="number" value="00313" />
+      <option name="presentableId" value="LOCAL-00313" />
+      <option name="project" value="LOCAL" />
+      <updated>1665366032483</updated>
+    </task>
+    <option name="localTasksCounter" value="314" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -552,15 +551,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="script that lists all shows contained in the database hbtn_0d_tvshows." />
-    <MESSAGE value="script that lists all shows contained in hbtn_0d_tvshows without a genre linked." />
-    <MESSAGE value="script that lists all genres from hbtn_0d_tvshows and displays the number of shows linked to each." />
-    <MESSAGE value="script that uses the hbtn_0d_tvshows database to lists all genres of the show Dexter." />
-    <MESSAGE value="script that lists all Comedy shows in the database hbtn_0d_tvshows." />
-    <MESSAGE value="script that lists all shows, and all genres linked to that show, from the database hbtn_0d_tvshows." />
-    <MESSAGE value="script that uses the hbtn_0d_tvshows database to list all genres not linked to the show Dexter" />
-    <MESSAGE value="script that lists all shows without the genre Comedy in the database hbtn_0d_tvshows" />
-    <MESSAGE value="script that lists all shows from hbtn_0d_tvshows_rate by their rating." />
     <MESSAGE value="script that lists all genres in the database hbtn_0d_tvshows_rate by their rating." />
     <MESSAGE value="javascript style check files" />
     <MESSAGE value="a script that prints “JavaScript is amazing”:" />
@@ -577,6 +567,15 @@
     <MESSAGE value="python file that contains the class definition of a State and an instance Base = declarative_base()." />
     <MESSAGE value="script that lists all State objects from the database hbtn_0e_6_usa" />
     <MESSAGE value="script that prints the first State object from the database hbtn_0e_6_usa" />
-    <option name="LAST_COMMIT_MESSAGE" value="script that prints the first State object from the database hbtn_0e_6_usa" />
+    <MESSAGE value="script that lists all State objects that contain the letter a from the database hbtn_0e_6_usa" />
+    <MESSAGE value="script that prints the State object with the name passed as argument from the database hbtn_0e_6_usa" />
+    <MESSAGE value=" script that adds the State object “Louisiana” to the database hbtn_0e_6_usa" />
+    <MESSAGE value="script that changes the name of a State object from the database hbtn_0e_6_usa" />
+    <MESSAGE value="script that deletes all State objects with a name containing the letter a from the database hbtn_0e_6_usa" />
+    <MESSAGE value="a script 14-model_city_fetch_by_state.py that prints all City objects from the database hbtn_0e_14_usa" />
+    <MESSAGE value="script that creates the State “California” with the City “San Francisco” from the database hbtn_0e_100_usa: (100-relationship_states_cities.py)." />
+    <MESSAGE value="script that lists all State objects, and corresponding City objects, contained in the database hbtn_0e_101_usa." />
+    <MESSAGE value="script that lists all City objects from the database hbtn_0e_101_usa" />
+    <option name="LAST_COMMIT_MESSAGE" value="script that lists all City objects from the database hbtn_0e_101_usa" />
   </component>
 </project>

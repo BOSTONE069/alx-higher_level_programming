@@ -2,15 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="updated the readme file">
-      <change afterPath="$PROJECT_DIR$/0x10-python-network_0/0-body_size.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x10-python-network_0/1-body.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x10-python-network_0/2-delete.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x10-python-network_0/3-methods.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x10-python-network_0/4-header.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x10-python-network_0/5-post_params.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x10-python-network_0/6-peak.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x10-python-network_0/6-peak.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x10-python-network_0/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x11-python-network_1/0-hbtn_status.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x11-python-network_1/1-hbtn_header.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x11-python-network_1/10-my_github.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x11-python-network_1/2-post_email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x11-python-network_1/3-error_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x11-python-network_1/4-hbtn_status.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x11-python-network_1/5-hbtn_header.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x11-python-network_1/6-post_email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x11-python-network_1/7-error_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x11-python-network_1/8-json_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x11-python-network_1/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,18 +44,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ToolWindowGit.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/intelligence/alx-higher_level_programming&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ToolWindowGit.ShowToolbar": "false",
+    "last_opened_file_path": "/home/intelligence/alx-higher_level_programming",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -188,125 +190,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656428246784</updated>
-    </task>
-    <task id="LOCAL-00268" summary="javascript style check files">
-      <created>1664824232279</created>
-      <option name="number" value="00268" />
-      <option name="presentableId" value="LOCAL-00268" />
-      <option name="project" value="LOCAL" />
-      <updated>1664824232280</updated>
-    </task>
-    <task id="LOCAL-00269" summary="javascript style check files">
-      <created>1664824263064</created>
-      <option name="number" value="00269" />
-      <option name="presentableId" value="LOCAL-00269" />
-      <option name="project" value="LOCAL" />
-      <updated>1664824263064</updated>
-    </task>
-    <task id="LOCAL-00270" summary="a script that prints “JavaScript is amazing”:">
-      <created>1664825285831</created>
-      <option name="number" value="00270" />
-      <option name="presentableId" value="LOCAL-00270" />
-      <option name="project" value="LOCAL" />
-      <updated>1664825285832</updated>
-    </task>
-    <task id="LOCAL-00271" summary="script that prints 3 lines:">
-      <created>1664826128254</created>
-      <option name="number" value="00271" />
-      <option name="presentableId" value="LOCAL-00271" />
-      <option name="project" value="LOCAL" />
-      <updated>1664826128255</updated>
-    </task>
-    <task id="LOCAL-00272" summary="Javascript files">
-      <created>1664826291244</created>
-      <option name="number" value="00272" />
-      <option name="presentableId" value="LOCAL-00272" />
-      <option name="project" value="LOCAL" />
-      <updated>1664826291244</updated>
-    </task>
-    <task id="LOCAL-00273" summary="script that prints 3 lines:">
-      <created>1664826789732</created>
-      <option name="number" value="00273" />
-      <option name="presentableId" value="LOCAL-00273" />
-      <option name="project" value="LOCAL" />
-      <updated>1664826789732</updated>
-    </task>
-    <task id="LOCAL-00274" summary="script that prints 3 lines:">
-      <created>1664826837309</created>
-      <option name="number" value="00274" />
-      <option name="presentableId" value="LOCAL-00274" />
-      <option name="project" value="LOCAL" />
-      <updated>1664826837309</updated>
-    </task>
-    <task id="LOCAL-00275" summary="script that prints javascript is amazing">
-      <created>1664826882553</created>
-      <option name="number" value="00275" />
-      <option name="presentableId" value="LOCAL-00275" />
-      <option name="project" value="LOCAL" />
-      <updated>1664826882553</updated>
-    </task>
-    <task id="LOCAL-00276" summary="script that prints javascript is amazing">
-      <created>1664827198187</created>
-      <option name="number" value="00276" />
-      <option name="presentableId" value="LOCAL-00276" />
-      <option name="project" value="LOCAL" />
-      <updated>1664827198187</updated>
-    </task>
-    <task id="LOCAL-00277" summary="script that prints javascript is amazing">
-      <created>1664827427643</created>
-      <option name="number" value="00277" />
-      <option name="presentableId" value="LOCAL-00277" />
-      <option name="project" value="LOCAL" />
-      <updated>1664827427643</updated>
-    </task>
-    <task id="LOCAL-00278" summary="script that prints javascript is amazing">
-      <created>1664827706423</created>
-      <option name="number" value="00278" />
-      <option name="presentableId" value="LOCAL-00278" />
-      <option name="project" value="LOCAL" />
-      <updated>1664827706423</updated>
-    </task>
-    <task id="LOCAL-00279" summary="script that prints javascript is amazing">
-      <created>1664827884388</created>
-      <option name="number" value="00279" />
-      <option name="presentableId" value="LOCAL-00279" />
-      <option name="project" value="LOCAL" />
-      <updated>1664827884388</updated>
-    </task>
-    <task id="LOCAL-00280" summary="script that prints javascript is amazing">
-      <created>1664827974973</created>
-      <option name="number" value="00280" />
-      <option name="presentableId" value="LOCAL-00280" />
-      <option name="project" value="LOCAL" />
-      <updated>1664827974973</updated>
-    </task>
-    <task id="LOCAL-00281" summary="script that prints javascript is amazing">
-      <created>1664828238441</created>
-      <option name="number" value="00281" />
-      <option name="presentableId" value="LOCAL-00281" />
-      <option name="project" value="LOCAL" />
-      <updated>1664828238441</updated>
-    </task>
-    <task id="LOCAL-00282" summary="script that prints javascript is amazing">
-      <created>1665088518368</created>
-      <option name="number" value="00282" />
-      <option name="presentableId" value="LOCAL-00282" />
-      <option name="project" value="LOCAL" />
-      <updated>1665088518369</updated>
-    </task>
-    <task id="LOCAL-00283" summary="This is python object relational mapping">
-      <created>1665278276713</created>
-      <option name="number" value="00283" />
-      <option name="presentableId" value="LOCAL-00283" />
-      <option name="project" value="LOCAL" />
-      <updated>1665278276714</updated>
-    </task>
-    <task id="LOCAL-00284" summary="script that lists all states from the database hbtn_0e_0_usa">
-      <created>1665278500040</created>
-      <option name="number" value="00284" />
-      <option name="presentableId" value="LOCAL-00284" />
-      <option name="project" value="LOCAL" />
-      <updated>1665278500040</updated>
     </task>
     <task id="LOCAL-00285" summary="script that lists all states from the database hbtn_0e_0_usa">
       <created>1665330935251</created>
@@ -532,7 +415,126 @@
       <option name="project" value="LOCAL" />
       <updated>1666313695752</updated>
     </task>
-    <option name="localTasksCounter" value="317" />
+    <task id="LOCAL-00317" summary="These are python networking files">
+      <created>1666313736980</created>
+      <option name="number" value="00317" />
+      <option name="presentableId" value="LOCAL-00317" />
+      <option name="project" value="LOCAL" />
+      <updated>1666313736981</updated>
+    </task>
+    <task id="LOCAL-00318" summary="These are python networking files">
+      <created>1666313779054</created>
+      <option name="number" value="00318" />
+      <option name="presentableId" value="LOCAL-00318" />
+      <option name="project" value="LOCAL" />
+      <updated>1666313779054</updated>
+    </task>
+    <task id="LOCAL-00319" summary="made the files executables">
+      <created>1666313801300</created>
+      <option name="number" value="00319" />
+      <option name="presentableId" value="LOCAL-00319" />
+      <option name="project" value="LOCAL" />
+      <updated>1666313801300</updated>
+    </task>
+    <task id="LOCAL-00320" summary="Bash script that takes in a URL, sends a request to that URL, and displays the size of the body of the response">
+      <created>1666314272877</created>
+      <option name="number" value="00320" />
+      <option name="presentableId" value="LOCAL-00320" />
+      <option name="project" value="LOCAL" />
+      <updated>1666314272878</updated>
+    </task>
+    <task id="LOCAL-00321" summary="Bash script that takes in a URL, sends a GET request to the URL, and displays the body of the response">
+      <created>1666314431979</created>
+      <option name="number" value="00321" />
+      <option name="presentableId" value="LOCAL-00321" />
+      <option name="project" value="LOCAL" />
+      <updated>1666314431979</updated>
+    </task>
+    <task id="LOCAL-00322" summary="Bash script that sends a DELETE request to the URL passed as the first argument and displays the body of the response">
+      <created>1666314587825</created>
+      <option name="number" value="00322" />
+      <option name="presentableId" value="LOCAL-00322" />
+      <option name="project" value="LOCAL" />
+      <updated>1666314587825</updated>
+    </task>
+    <task id="LOCAL-00323" summary="Bash script that takes in a URL and displays all HTTP methods the server will accept.">
+      <created>1666314985284</created>
+      <option name="number" value="00323" />
+      <option name="presentableId" value="LOCAL-00323" />
+      <option name="project" value="LOCAL" />
+      <updated>1666314985284</updated>
+    </task>
+    <task id="LOCAL-00324" summary="Bash script that takes in a URL and displays all HTTP methods the server will accept.">
+      <created>1666315101729</created>
+      <option name="number" value="00324" />
+      <option name="presentableId" value="LOCAL-00324" />
+      <option name="project" value="LOCAL" />
+      <updated>1666315101729</updated>
+    </task>
+    <task id="LOCAL-00325" summary="Bash script that takes in a URL as an argument, sends a GET request to the URL, and displays the body of the response">
+      <created>1666315331531</created>
+      <option name="number" value="00325" />
+      <option name="presentableId" value="LOCAL-00325" />
+      <option name="project" value="LOCAL" />
+      <updated>1666315331531</updated>
+    </task>
+    <task id="LOCAL-00326" summary="Bash script that takes in a URL, sends a POST request to the passed URL, and displays the body of the response.">
+      <created>1666315596092</created>
+      <option name="number" value="00326" />
+      <option name="presentableId" value="LOCAL-00326" />
+      <option name="project" value="LOCAL" />
+      <updated>1666315596092</updated>
+    </task>
+    <task id="LOCAL-00327" summary=" function that finds a peak in a list of unsorted integers.">
+      <created>1666316017383</created>
+      <option name="number" value="00327" />
+      <option name="presentableId" value="LOCAL-00327" />
+      <option name="project" value="LOCAL" />
+      <updated>1666316017383</updated>
+    </task>
+    <task id="LOCAL-00328" summary=" function that finds a peak in a list of unsorted integers.">
+      <created>1666316281032</created>
+      <option name="number" value="00328" />
+      <option name="presentableId" value="LOCAL-00328" />
+      <option name="project" value="LOCAL" />
+      <updated>1666316281032</updated>
+    </task>
+    <task id="LOCAL-00329" summary=" function that finds a peak in a list of unsorted integers.">
+      <created>1666339688249</created>
+      <option name="number" value="00329" />
+      <option name="presentableId" value="LOCAL-00329" />
+      <option name="project" value="LOCAL" />
+      <updated>1666339688249</updated>
+    </task>
+    <task id="LOCAL-00330" summary=" Bash script that sends a request to a URL passed as an argument, and displays only the status code of the response.">
+      <created>1666340053718</created>
+      <option name="number" value="00330" />
+      <option name="presentableId" value="LOCAL-00330" />
+      <option name="project" value="LOCAL" />
+      <updated>1666340053718</updated>
+    </task>
+    <task id="LOCAL-00331" summary="Bash script that sends a JSON POST request to a URL passed as the first argument, and displays the body of the response.">
+      <created>1666340508590</created>
+      <option name="number" value="00331" />
+      <option name="presentableId" value="LOCAL-00331" />
+      <option name="project" value="LOCAL" />
+      <updated>1666340508590</updated>
+    </task>
+    <task id="LOCAL-00332" summary="Bash script that makes a request to 0.0.0.0:5000/catch_me that causes the server to respond with a message containing You got me!, in the body of the response.">
+      <created>1666340707802</created>
+      <option name="number" value="00332" />
+      <option name="presentableId" value="LOCAL-00332" />
+      <option name="project" value="LOCAL" />
+      <updated>1666340707802</updated>
+    </task>
+    <task id="LOCAL-00333" summary="updated the readme file">
+      <created>1666375994654</created>
+      <option name="number" value="00333" />
+      <option name="presentableId" value="LOCAL-00333" />
+      <option name="project" value="LOCAL" />
+      <updated>1666375994654</updated>
+    </task>
+    <option name="localTasksCounter" value="334" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -560,18 +562,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="javascript style check files" />
-    <MESSAGE value="a script that prints “JavaScript is amazing”:" />
-    <MESSAGE value="Javascript files" />
-    <MESSAGE value="script that prints 3 lines:" />
-    <MESSAGE value="script that prints javascript is amazing" />
-    <MESSAGE value="This is python object relational mapping" />
-    <MESSAGE value="script that lists all states from the database hbtn_0e_0_usa" />
-    <MESSAGE value="script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa" />
-    <MESSAGE value="script that takes in an argument and displays all values in the states table of hbtn_0e_0_usa where name matches the argument." />
-    <MESSAGE value="a script that takes in arguments and displays all values in the states table of hbtn_0e_0_usa where name matches the argument. But this time, write one that is safe from MySQL injections!" />
-    <MESSAGE value="script that lists all cities from the database hbtn_0e_4_usa" />
-    <MESSAGE value="script that takes in the name of a state as an argument and lists all cities of that state, using the database hbtn_0e_4_usa" />
     <MESSAGE value="python file that contains the class definition of a State and an instance Base = declarative_base()." />
     <MESSAGE value="script that lists all State objects from the database hbtn_0e_6_usa" />
     <MESSAGE value="script that prints the first State object from the database hbtn_0e_6_usa" />
@@ -584,6 +574,18 @@
     <MESSAGE value="script that creates the State “California” with the City “San Francisco” from the database hbtn_0e_100_usa: (100-relationship_states_cities.py)." />
     <MESSAGE value="script that lists all State objects, and corresponding City objects, contained in the database hbtn_0e_101_usa." />
     <MESSAGE value="script that lists all City objects from the database hbtn_0e_101_usa" />
+    <MESSAGE value="These are python networking files" />
+    <MESSAGE value="made the files executables" />
+    <MESSAGE value="Bash script that takes in a URL, sends a request to that URL, and displays the size of the body of the response" />
+    <MESSAGE value="Bash script that takes in a URL, sends a GET request to the URL, and displays the body of the response" />
+    <MESSAGE value="Bash script that sends a DELETE request to the URL passed as the first argument and displays the body of the response" />
+    <MESSAGE value="Bash script that takes in a URL and displays all HTTP methods the server will accept." />
+    <MESSAGE value="Bash script that takes in a URL as an argument, sends a GET request to the URL, and displays the body of the response" />
+    <MESSAGE value="Bash script that takes in a URL, sends a POST request to the passed URL, and displays the body of the response." />
+    <MESSAGE value=" function that finds a peak in a list of unsorted integers." />
+    <MESSAGE value=" Bash script that sends a request to a URL passed as an argument, and displays only the status code of the response." />
+    <MESSAGE value="Bash script that sends a JSON POST request to a URL passed as the first argument, and displays the body of the response." />
+    <MESSAGE value="Bash script that makes a request to 0.0.0.0:5000/catch_me that causes the server to respond with a message containing You got me!, in the body of the response." />
     <MESSAGE value="updated the readme file" />
     <option name="LAST_COMMIT_MESSAGE" value="updated the readme file" />
   </component>

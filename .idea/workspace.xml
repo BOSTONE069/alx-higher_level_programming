@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="script that takes in a URL and an email,&#10;sends a POST request to the passed&#10;URL with the email as a parameter,&#10;and displays the body of the response (decoded in utf-8)">
+    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="Python script that takes in a URL, sends a request to the URL and displays the body of the response.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x11-python-network_1/6-post_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x11-python-network_1/6-post_email.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,20 +179,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656428246784</updated>
-    </task>
-    <task id="LOCAL-00301" summary="script that lists all State objects from the database hbtn_0e_6_usa">
-      <created>1665340719631</created>
-      <option name="number" value="00301" />
-      <option name="presentableId" value="LOCAL-00301" />
-      <option name="project" value="LOCAL" />
-      <updated>1665340719631</updated>
-    </task>
-    <task id="LOCAL-00302" summary="script that prints the first State object from the database hbtn_0e_6_usa">
-      <created>1665340861293</created>
-      <option name="number" value="00302" />
-      <option name="presentableId" value="LOCAL-00302" />
-      <option name="project" value="LOCAL" />
-      <updated>1665340861293</updated>
     </task>
     <task id="LOCAL-00303" summary="script that lists all State objects that contain the letter a from the database hbtn_0e_6_usa">
       <created>1665341120529</created>
@@ -524,7 +509,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666547879566</updated>
     </task>
-    <option name="localTasksCounter" value="350" />
+    <task id="LOCAL-00350" summary="Python script that takes in a URL, sends a request to the URL and displays the body of the response.">
+      <created>1666548171466</created>
+      <option name="number" value="00350" />
+      <option name="presentableId" value="LOCAL-00350" />
+      <option name="project" value="LOCAL" />
+      <updated>1666548171466</updated>
+    </task>
+    <task id="LOCAL-00351" summary="Python script that takes in a URL, sends a request to the URL and displays the body of the response.">
+      <created>1666548180294</created>
+      <option name="number" value="00351" />
+      <option name="presentableId" value="LOCAL-00351" />
+      <option name="project" value="LOCAL" />
+      <updated>1666548180294</updated>
+    </task>
+    <option name="localTasksCounter" value="352" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -552,7 +551,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="a script 14-model_city_fetch_by_state.py that prints all City objects from the database hbtn_0e_14_usa" />
     <MESSAGE value="script that creates the State “California” with the City “San Francisco” from the database hbtn_0e_100_usa: (100-relationship_states_cities.py)." />
     <MESSAGE value="script that lists all State objects, and corresponding City objects, contained in the database hbtn_0e_101_usa." />
     <MESSAGE value="script that lists all City objects from the database hbtn_0e_101_usa" />
@@ -577,6 +575,7 @@
     <MESSAGE value="Python script that takes in a URL, sends a request to the URL and displays the value of the variable X-Request-Id in the response header" />
     <MESSAGE value="Fetches for url" />
     <MESSAGE value="script that takes in a URL and an email,&#10;sends a POST request to the passed&#10;URL with the email as a parameter,&#10;and displays the body of the response (decoded in utf-8)" />
-    <option name="LAST_COMMIT_MESSAGE" value="script that takes in a URL and an email,&#10;sends a POST request to the passed&#10;URL with the email as a parameter,&#10;and displays the body of the response (decoded in utf-8)" />
+    <MESSAGE value="Python script that takes in a URL, sends a request to the URL and displays the body of the response." />
+    <option name="LAST_COMMIT_MESSAGE" value="Python script that takes in a URL, sends a request to the URL and displays the body of the response." />
   </component>
 </project>

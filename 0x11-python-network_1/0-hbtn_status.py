@@ -9,6 +9,7 @@ if __name__ == '__main__':
         alx = response.read()
 
         print('Body response:')
-        print('\t- type: {}'.format(type(alx)))
-        print('\t- content-type: {}'.format(alx))
-        print('\t- utf8 content: {}'.format(alx.decode("utf-8", "replace")))
+        print(f'\t- type: {type(alx)}')
+        print(f'\t- content-type: {alx}')
+        print(f'\t- utf8 content: {alx.decode("utf-8", "replace")}')
+

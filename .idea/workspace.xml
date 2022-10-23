@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="updated the readme file">
-      <change afterPath="$PROJECT_DIR$/0x11-python-network_1/0-hbtn_status.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x11-python-network_1/1-hbtn_header.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x11-python-network_1/10-my_github.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x11-python-network_1/2-post_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x11-python-network_1/3-error_code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x11-python-network_1/4-hbtn_status.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x11-python-network_1/5-hbtn_header.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x11-python-network_1/6-post_email.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x11-python-network_1/7-error_code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x11-python-network_1/8-json_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x11-python-network_1/README.md" afterDir="false" />
+    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="script that takes in a URL and an email,&#10;sends a POST request to the passed&#10;URL with the email as a parameter,&#10;and displays the body of the response (decoded in utf-8)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x11-python-network_1/6-post_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x11-python-network_1/6-post_email.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,18 +34,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ToolWindowGit.ShowToolbar": "false",
-    "last_opened_file_path": "/home/intelligence/alx-higher_level_programming",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindowGit.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/intelligence/alx-higher_level_programming&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -190,118 +180,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656428246784</updated>
-    </task>
-    <task id="LOCAL-00285" summary="script that lists all states from the database hbtn_0e_0_usa">
-      <created>1665330935251</created>
-      <option name="number" value="00285" />
-      <option name="presentableId" value="LOCAL-00285" />
-      <option name="project" value="LOCAL" />
-      <updated>1665330935252</updated>
-    </task>
-    <task id="LOCAL-00286" summary="script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa">
-      <created>1665331832235</created>
-      <option name="number" value="00286" />
-      <option name="presentableId" value="LOCAL-00286" />
-      <option name="project" value="LOCAL" />
-      <updated>1665331832235</updated>
-    </task>
-    <task id="LOCAL-00287" summary="script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa">
-      <created>1665331952408</created>
-      <option name="number" value="00287" />
-      <option name="presentableId" value="LOCAL-00287" />
-      <option name="project" value="LOCAL" />
-      <updated>1665331952408</updated>
-    </task>
-    <task id="LOCAL-00288" summary="script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa">
-      <created>1665332049505</created>
-      <option name="number" value="00288" />
-      <option name="presentableId" value="LOCAL-00288" />
-      <option name="project" value="LOCAL" />
-      <updated>1665332049505</updated>
-    </task>
-    <task id="LOCAL-00289" summary="script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa">
-      <created>1665332241204</created>
-      <option name="number" value="00289" />
-      <option name="presentableId" value="LOCAL-00289" />
-      <option name="project" value="LOCAL" />
-      <updated>1665332241204</updated>
-    </task>
-    <task id="LOCAL-00290" summary="script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa">
-      <created>1665332288893</created>
-      <option name="number" value="00290" />
-      <option name="presentableId" value="LOCAL-00290" />
-      <option name="project" value="LOCAL" />
-      <updated>1665332288893</updated>
-    </task>
-    <task id="LOCAL-00291" summary="script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa">
-      <created>1665332399250</created>
-      <option name="number" value="00291" />
-      <option name="presentableId" value="LOCAL-00291" />
-      <option name="project" value="LOCAL" />
-      <updated>1665332399250</updated>
-    </task>
-    <task id="LOCAL-00292" summary="script that lists all states with a name starting with N (upper N) from the database hbtn_0e_0_usa">
-      <created>1665332481865</created>
-      <option name="number" value="00292" />
-      <option name="presentableId" value="LOCAL-00292" />
-      <option name="project" value="LOCAL" />
-      <updated>1665332481865</updated>
-    </task>
-    <task id="LOCAL-00293" summary="script that takes in an argument and displays all values in the states table of hbtn_0e_0_usa where name matches the argument.">
-      <created>1665332628963</created>
-      <option name="number" value="00293" />
-      <option name="presentableId" value="LOCAL-00293" />
-      <option name="project" value="LOCAL" />
-      <updated>1665332628963</updated>
-    </task>
-    <task id="LOCAL-00294" summary="script that takes in an argument and displays all values in the states table of hbtn_0e_0_usa where name matches the argument.">
-      <created>1665332639443</created>
-      <option name="number" value="00294" />
-      <option name="presentableId" value="LOCAL-00294" />
-      <option name="project" value="LOCAL" />
-      <updated>1665332639444</updated>
-    </task>
-    <task id="LOCAL-00295" summary="a script that takes in arguments and displays all values in the states table of hbtn_0e_0_usa where name matches the argument. But this time, write one that is safe from MySQL injections!">
-      <created>1665332847178</created>
-      <option name="number" value="00295" />
-      <option name="presentableId" value="LOCAL-00295" />
-      <option name="project" value="LOCAL" />
-      <updated>1665332847178</updated>
-    </task>
-    <task id="LOCAL-00296" summary="a script that takes in arguments and displays all values in the states table of hbtn_0e_0_usa where name matches the argument. But this time, write one that is safe from MySQL injections!">
-      <created>1665333017776</created>
-      <option name="number" value="00296" />
-      <option name="presentableId" value="LOCAL-00296" />
-      <option name="project" value="LOCAL" />
-      <updated>1665333017776</updated>
-    </task>
-    <task id="LOCAL-00297" summary="script that lists all cities from the database hbtn_0e_4_usa">
-      <created>1665339959584</created>
-      <option name="number" value="00297" />
-      <option name="presentableId" value="LOCAL-00297" />
-      <option name="project" value="LOCAL" />
-      <updated>1665339959585</updated>
-    </task>
-    <task id="LOCAL-00298" summary="script that takes in the name of a state as an argument and lists all cities of that state, using the database hbtn_0e_4_usa">
-      <created>1665340128990</created>
-      <option name="number" value="00298" />
-      <option name="presentableId" value="LOCAL-00298" />
-      <option name="project" value="LOCAL" />
-      <updated>1665340128990</updated>
-    </task>
-    <task id="LOCAL-00299" summary="script that takes in the name of a state as an argument and lists all cities of that state, using the database hbtn_0e_4_usa">
-      <created>1665340140140</created>
-      <option name="number" value="00299" />
-      <option name="presentableId" value="LOCAL-00299" />
-      <option name="project" value="LOCAL" />
-      <updated>1665340140140</updated>
-    </task>
-    <task id="LOCAL-00300" summary="python file that contains the class definition of a State and an instance Base = declarative_base().">
-      <created>1665340458073</created>
-      <option name="number" value="00300" />
-      <option name="presentableId" value="LOCAL-00300" />
-      <option name="project" value="LOCAL" />
-      <updated>1665340458073</updated>
     </task>
     <task id="LOCAL-00301" summary="script that lists all State objects from the database hbtn_0e_6_usa">
       <created>1665340719631</created>
@@ -534,7 +412,119 @@
       <option name="project" value="LOCAL" />
       <updated>1666375994654</updated>
     </task>
-    <option name="localTasksCounter" value="334" />
+    <task id="LOCAL-00334" summary="python network files">
+      <created>1666376024158</created>
+      <option name="number" value="00334" />
+      <option name="presentableId" value="LOCAL-00334" />
+      <option name="project" value="LOCAL" />
+      <updated>1666376024158</updated>
+    </task>
+    <task id="LOCAL-00335" summary="Python script that fetches https://alx-intranet.hbtn.io/status.">
+      <created>1666543504554</created>
+      <option name="number" value="00335" />
+      <option name="presentableId" value="LOCAL-00335" />
+      <option name="project" value="LOCAL" />
+      <updated>1666543504555</updated>
+    </task>
+    <task id="LOCAL-00336" summary="Python script that fetches https://alx-intranet.hbtn.io/status.">
+      <created>1666543689241</created>
+      <option name="number" value="00336" />
+      <option name="presentableId" value="LOCAL-00336" />
+      <option name="project" value="LOCAL" />
+      <updated>1666543689242</updated>
+    </task>
+    <task id="LOCAL-00337" summary="Python script that fetches https://alx-intranet.hbtn.io/status.">
+      <created>1666543876491</created>
+      <option name="number" value="00337" />
+      <option name="presentableId" value="LOCAL-00337" />
+      <option name="project" value="LOCAL" />
+      <updated>1666543876492</updated>
+    </task>
+    <task id="LOCAL-00338" summary="Python script that fetches https://alx-intranet.hbtn.io/status.">
+      <created>1666543888887</created>
+      <option name="number" value="00338" />
+      <option name="presentableId" value="LOCAL-00338" />
+      <option name="project" value="LOCAL" />
+      <updated>1666543888887</updated>
+    </task>
+    <task id="LOCAL-00339" summary="Python script that fetches https://alx-intranet.hbtn.io/status.">
+      <created>1666544404622</created>
+      <option name="number" value="00339" />
+      <option name="presentableId" value="LOCAL-00339" />
+      <option name="project" value="LOCAL" />
+      <updated>1666544404622</updated>
+    </task>
+    <task id="LOCAL-00340" summary="Python script that takes in a URL, sends a request to the URL and displays the value of the X-Request-Id variable found in the header of the response.">
+      <created>1666544674154</created>
+      <option name="number" value="00340" />
+      <option name="presentableId" value="LOCAL-00340" />
+      <option name="project" value="LOCAL" />
+      <updated>1666544674154</updated>
+    </task>
+    <task id="LOCAL-00341" summary="Pscript that takes in a URL and an email, sends a POST request to the passed URL with the email as a parameter, and displays the body of the response (decoded in utf-8).">
+      <created>1666545557449</created>
+      <option name="number" value="00341" />
+      <option name="presentableId" value="LOCAL-00341" />
+      <option name="project" value="LOCAL" />
+      <updated>1666545557449</updated>
+    </task>
+    <task id="LOCAL-00342" summary="script that takes in a URL, sends a request to the URL and displays the body of the response (decoded in utf-8).">
+      <created>1666546262551</created>
+      <option name="number" value="00342" />
+      <option name="presentableId" value="LOCAL-00342" />
+      <option name="project" value="LOCAL" />
+      <updated>1666546262551</updated>
+    </task>
+    <task id="LOCAL-00343" summary="script that takes in a URL, sends a request to the URL and displays the body of the response (decoded in utf-8).">
+      <created>1666546445259</created>
+      <option name="number" value="00343" />
+      <option name="presentableId" value="LOCAL-00343" />
+      <option name="project" value="LOCAL" />
+      <updated>1666546445259</updated>
+    </task>
+    <task id="LOCAL-00344" summary="Python script that fetches https://alx-intranet.hbtn.io/status.">
+      <created>1666547074764</created>
+      <option name="number" value="00344" />
+      <option name="presentableId" value="LOCAL-00344" />
+      <option name="project" value="LOCAL" />
+      <updated>1666547074764</updated>
+    </task>
+    <task id="LOCAL-00345" summary="Python script that fetches https://alx-intranet.hbtn.io/status.">
+      <created>1666547178439</created>
+      <option name="number" value="00345" />
+      <option name="presentableId" value="LOCAL-00345" />
+      <option name="project" value="LOCAL" />
+      <updated>1666547178439</updated>
+    </task>
+    <task id="LOCAL-00346" summary="Python script that fetches https://alx-intranet.hbtn.io/status.">
+      <created>1666547279772</created>
+      <option name="number" value="00346" />
+      <option name="presentableId" value="LOCAL-00346" />
+      <option name="project" value="LOCAL" />
+      <updated>1666547279773</updated>
+    </task>
+    <task id="LOCAL-00347" summary="Python script that takes in a URL, sends a request to the URL and displays the value of the variable X-Request-Id in the response header">
+      <created>1666547503521</created>
+      <option name="number" value="00347" />
+      <option name="presentableId" value="LOCAL-00347" />
+      <option name="project" value="LOCAL" />
+      <updated>1666547503521</updated>
+    </task>
+    <task id="LOCAL-00348" summary="Fetches for url">
+      <created>1666547560162</created>
+      <option name="number" value="00348" />
+      <option name="presentableId" value="LOCAL-00348" />
+      <option name="project" value="LOCAL" />
+      <updated>1666547560163</updated>
+    </task>
+    <task id="LOCAL-00349" summary="script that takes in a URL and an email,&#10;sends a POST request to the passed&#10;URL with the email as a parameter,&#10;and displays the body of the response (decoded in utf-8)">
+      <created>1666547879566</created>
+      <option name="number" value="00349" />
+      <option name="presentableId" value="LOCAL-00349" />
+      <option name="project" value="LOCAL" />
+      <updated>1666547879566</updated>
+    </task>
+    <option name="localTasksCounter" value="350" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -562,14 +552,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="python file that contains the class definition of a State and an instance Base = declarative_base()." />
-    <MESSAGE value="script that lists all State objects from the database hbtn_0e_6_usa" />
-    <MESSAGE value="script that prints the first State object from the database hbtn_0e_6_usa" />
-    <MESSAGE value="script that lists all State objects that contain the letter a from the database hbtn_0e_6_usa" />
-    <MESSAGE value="script that prints the State object with the name passed as argument from the database hbtn_0e_6_usa" />
-    <MESSAGE value=" script that adds the State object “Louisiana” to the database hbtn_0e_6_usa" />
-    <MESSAGE value="script that changes the name of a State object from the database hbtn_0e_6_usa" />
-    <MESSAGE value="script that deletes all State objects with a name containing the letter a from the database hbtn_0e_6_usa" />
     <MESSAGE value="a script 14-model_city_fetch_by_state.py that prints all City objects from the database hbtn_0e_14_usa" />
     <MESSAGE value="script that creates the State “California” with the City “San Francisco” from the database hbtn_0e_100_usa: (100-relationship_states_cities.py)." />
     <MESSAGE value="script that lists all State objects, and corresponding City objects, contained in the database hbtn_0e_101_usa." />
@@ -587,6 +569,14 @@
     <MESSAGE value="Bash script that sends a JSON POST request to a URL passed as the first argument, and displays the body of the response." />
     <MESSAGE value="Bash script that makes a request to 0.0.0.0:5000/catch_me that causes the server to respond with a message containing You got me!, in the body of the response." />
     <MESSAGE value="updated the readme file" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated the readme file" />
+    <MESSAGE value="python network files" />
+    <MESSAGE value="Python script that takes in a URL, sends a request to the URL and displays the value of the X-Request-Id variable found in the header of the response." />
+    <MESSAGE value="Pscript that takes in a URL and an email, sends a POST request to the passed URL with the email as a parameter, and displays the body of the response (decoded in utf-8)." />
+    <MESSAGE value="script that takes in a URL, sends a request to the URL and displays the body of the response (decoded in utf-8)." />
+    <MESSAGE value="Python script that fetches https://alx-intranet.hbtn.io/status." />
+    <MESSAGE value="Python script that takes in a URL, sends a request to the URL and displays the value of the variable X-Request-Id in the response header" />
+    <MESSAGE value="Fetches for url" />
+    <MESSAGE value="script that takes in a URL and an email,&#10;sends a POST request to the passed&#10;URL with the email as a parameter,&#10;and displays the body of the response (decoded in utf-8)" />
+    <option name="LAST_COMMIT_MESSAGE" value="script that takes in a URL and an email,&#10;sends a POST request to the passed&#10;URL with the email as a parameter,&#10;and displays the body of the response (decoded in utf-8)" />
   </component>
 </project>

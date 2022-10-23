@@ -12,4 +12,3 @@ if __name__ == '__main__':
         print(f'\t- type: {type(alx)}')
         print(f'\t- content-type: {alx}')
         print(f'\t- utf8 content: {alx.decode("utf-8", "replace")}')
-

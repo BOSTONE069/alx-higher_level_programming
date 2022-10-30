@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="Python script that takes your GitHub credentials (username and password) and uses the GitHub API to display your id">
+    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="Python script that fetches https://alx-intranet.hbtn.io/status">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;ToolWindowGit.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/intelligence/alx-higher_level_programming&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/intelligence/alx-system_engineering-devops&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
@@ -179,27 +179,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656428246784</updated>
-    </task>
-    <task id="LOCAL-00306" summary=" script that adds the State object “Louisiana” to the database hbtn_0e_6_usa">
-      <created>1665341735698</created>
-      <option name="number" value="00306" />
-      <option name="presentableId" value="LOCAL-00306" />
-      <option name="project" value="LOCAL" />
-      <updated>1665341735698</updated>
-    </task>
-    <task id="LOCAL-00307" summary="script that changes the name of a State object from the database hbtn_0e_6_usa">
-      <created>1665341890057</created>
-      <option name="number" value="00307" />
-      <option name="presentableId" value="LOCAL-00307" />
-      <option name="project" value="LOCAL" />
-      <updated>1665341890057</updated>
-    </task>
-    <task id="LOCAL-00308" summary="script that deletes all State objects with a name containing the letter a from the database hbtn_0e_6_usa">
-      <created>1665342491504</created>
-      <option name="number" value="00308" />
-      <option name="presentableId" value="LOCAL-00308" />
-      <option name="project" value="LOCAL" />
-      <updated>1665342491504</updated>
     </task>
     <task id="LOCAL-00309" summary="a script 14-model_city_fetch_by_state.py that prints all City objects from the database hbtn_0e_14_usa">
       <created>1665343037405</created>
@@ -523,7 +502,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666549411965</updated>
     </task>
-    <option name="localTasksCounter" value="355" />
+    <task id="LOCAL-00355" summary="Python script that takes 2 arguments in order to solve this challenge">
+      <created>1666549906835</created>
+      <option name="number" value="00355" />
+      <option name="presentableId" value="LOCAL-00355" />
+      <option name="project" value="LOCAL" />
+      <updated>1666549906835</updated>
+    </task>
+    <task id="LOCAL-00356" summary="Python script that takes 2 arguments in order to solve this challenge">
+      <created>1666549917145</created>
+      <option name="number" value="00356" />
+      <option name="presentableId" value="LOCAL-00356" />
+      <option name="project" value="LOCAL" />
+      <updated>1666549917145</updated>
+    </task>
+    <task id="LOCAL-00357" summary="Python script that fetches https://alx-intranet.hbtn.io/status">
+      <created>1666550026441</created>
+      <option name="number" value="00357" />
+      <option name="presentableId" value="LOCAL-00357" />
+      <option name="project" value="LOCAL" />
+      <updated>1666550026441</updated>
+    </task>
+    <option name="localTasksCounter" value="358" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -551,8 +551,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="script that lists all City objects from the database hbtn_0e_101_usa" />
-    <MESSAGE value="These are python networking files" />
     <MESSAGE value="made the files executables" />
     <MESSAGE value="Bash script that takes in a URL, sends a request to that URL, and displays the size of the body of the response" />
     <MESSAGE value="Bash script that takes in a URL, sends a GET request to the URL, and displays the body of the response" />
@@ -576,6 +574,8 @@
     <MESSAGE value="Python script that takes in a URL, sends a request to the URL and displays the body of the response." />
     <MESSAGE value="script that takes in a letter and sends a POST request to http://0.0.0.0:5000/search_user with the letter as a parameter." />
     <MESSAGE value="Python script that takes your GitHub credentials (username and password) and uses the GitHub API to display your id" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python script that takes your GitHub credentials (username and password) and uses the GitHub API to display your id" />
+    <MESSAGE value="Python script that takes 2 arguments in order to solve this challenge" />
+    <MESSAGE value="Python script that fetches https://alx-intranet.hbtn.io/status" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python script that fetches https://alx-intranet.hbtn.io/status" />
   </component>
 </project>

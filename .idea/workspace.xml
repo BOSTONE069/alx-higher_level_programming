@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="script that prints all characters of a Star Wars movie.">
-      <change beforePath="$PROJECT_DIR$/0x14-javascript-web_scraping/100-starwars_characters.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x14-javascript-web_scraping/100-starwars_characters.js" afterDir="false" />
-    </list>
+    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="script that prints all characters of a Star Wars movie." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -179,13 +177,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656428246784</updated>
-    </task>
-    <task id="LOCAL-00327" summary=" function that finds a peak in a list of unsorted integers.">
-      <created>1666316017383</created>
-      <option name="number" value="00327" />
-      <option name="presentableId" value="LOCAL-00327" />
-      <option name="project" value="LOCAL" />
-      <updated>1666316017383</updated>
     </task>
     <task id="LOCAL-00328" summary=" function that finds a peak in a list of unsorted integers.">
       <created>1666316281032</created>
@@ -523,7 +514,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668546132288</updated>
     </task>
-    <option name="localTasksCounter" value="376" />
+    <task id="LOCAL-00376" summary="script that prints all characters of a Star Wars movie.">
+      <created>1668546215608</created>
+      <option name="number" value="00376" />
+      <option name="presentableId" value="LOCAL-00376" />
+      <option name="project" value="LOCAL" />
+      <updated>1668546215608</updated>
+    </task>
+    <option name="localTasksCounter" value="377" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -1,23 +1,32 @@
 #!/usr/bin/node
 
-const myArray = process.argv.slice(2);
-const request = require('request');
-
-if (Number.isInteger(parseInt(myArray[0]))) {
-  request('http://swapi.co/api/films/' + myArray[0], function (error, response, body) {
-    if (error) console.error('error:', error);
-    const setTitle = JSON.parse(body).title;
-    if (Number.isInteger(parseInt(myArray[0]))) {
-      request('http://swapi.co/api/films/', function (error, response, body) {
-        if (error) console.error('error:', error);
-        JSON.parse(body).results.forEach(dict => {
-          if (dict.title === setTitle) {
-            dict.characters.forEach(link => request(link, (error, response, body) => {
-              if (error) console.error('error:', error); console.log(JSON.parse(body).name);
-            }));
-          }
-        });
-      });
+function order (characters, idx) {
+  if (idx >= characters.length) {
+    return;
+  }
+  request(characters[idx], function (err, response, body) {
+    if (err) {
+      console.log(err);
+    } else if (response.statusCode === 200) {
+      const person = JSON.parse(body);
+      console.log(person.name);
+      return order(characters, ++idx);
+    } else {
+      console.log('error ocurred, Status code: ' + response.statusCode);
     }
   });
 }
+
+const request = require('request');
+const url = 'https://swapi-api.hbtn.io/api/films/';
+const ep = process.argv[2];
+request(url + ep, function (err, response, body) {
+  if (err) {
+    console.log(err);
+  } else if (response.statusCode === 200) {
+    const jsobj = JSON.parse(body);
+    order(jsobj.characters, 0);
+  } else {
+    console.log('error occurred, Status code: ' + response.statusCode);
+  }
+});

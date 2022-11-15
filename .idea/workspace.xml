@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="updated the readme files of the higher level languages" />
+    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="script that display the status code of a GET request">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x14-javascript-web_scraping/3-starwars_title.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x14-javascript-web_scraping/3-starwars_title.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,18 +34,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ToolWindowGit.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/intelligence/AirBnB_clone_v2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ToolWindowGit.ShowToolbar": "false",
+    "last_opened_file_path": "/home/intelligence/alx-higher_level_programming",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -177,62 +180,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656428246784</updated>
-    </task>
-    <task id="LOCAL-00310" summary="a script 14-model_city_fetch_by_state.py that prints all City objects from the database hbtn_0e_14_usa">
-      <created>1665343105732</created>
-      <option name="number" value="00310" />
-      <option name="presentableId" value="LOCAL-00310" />
-      <option name="project" value="LOCAL" />
-      <updated>1665343105732</updated>
-    </task>
-    <task id="LOCAL-00311" summary="script that creates the State “California” with the City “San Francisco” from the database hbtn_0e_100_usa: (100-relationship_states_cities.py).">
-      <created>1665365089306</created>
-      <option name="number" value="00311" />
-      <option name="presentableId" value="LOCAL-00311" />
-      <option name="project" value="LOCAL" />
-      <updated>1665365089306</updated>
-    </task>
-    <task id="LOCAL-00312" summary="script that lists all State objects, and corresponding City objects, contained in the database hbtn_0e_101_usa.">
-      <created>1665365258010</created>
-      <option name="number" value="00312" />
-      <option name="presentableId" value="LOCAL-00312" />
-      <option name="project" value="LOCAL" />
-      <updated>1665365258010</updated>
-    </task>
-    <task id="LOCAL-00313" summary="script that lists all City objects from the database hbtn_0e_101_usa">
-      <created>1665366032483</created>
-      <option name="number" value="00313" />
-      <option name="presentableId" value="LOCAL-00313" />
-      <option name="project" value="LOCAL" />
-      <updated>1665366032483</updated>
-    </task>
-    <task id="LOCAL-00314" summary="script that lists all City objects from the database hbtn_0e_101_usa">
-      <created>1665521516737</created>
-      <option name="number" value="00314" />
-      <option name="presentableId" value="LOCAL-00314" />
-      <option name="project" value="LOCAL" />
-      <updated>1665521516738</updated>
-    </task>
-    <task id="LOCAL-00315" summary="updated the readme file">
-      <created>1665521595109</created>
-      <option name="number" value="00315" />
-      <option name="presentableId" value="LOCAL-00315" />
-      <option name="project" value="LOCAL" />
-      <updated>1665521595109</updated>
-    </task>
-    <task id="LOCAL-00316" summary="updated the readme file">
-      <created>1666313695752</created>
-      <option name="number" value="00316" />
-      <option name="presentableId" value="LOCAL-00316" />
-      <option name="project" value="LOCAL" />
-      <updated>1666313695752</updated>
-    </task>
-    <task id="LOCAL-00317" summary="These are python networking files">
-      <created>1666313736980</created>
-      <option name="number" value="00317" />
-      <option name="presentableId" value="LOCAL-00317" />
-      <option name="project" value="LOCAL" />
-      <updated>1666313736981</updated>
     </task>
     <task id="LOCAL-00318" summary="These are python networking files">
       <created>1666313779054</created>
@@ -521,7 +468,63 @@
       <option name="project" value="LOCAL" />
       <updated>1667160155659</updated>
     </task>
-    <option name="localTasksCounter" value="359" />
+    <task id="LOCAL-00359" summary="javascript web scrapping files">
+      <created>1668532202640</created>
+      <option name="number" value="00359" />
+      <option name="presentableId" value="LOCAL-00359" />
+      <option name="project" value="LOCAL" />
+      <updated>1668532202642</updated>
+    </task>
+    <task id="LOCAL-00360" summary="script that reads and prints the content of a file.">
+      <created>1668532758620</created>
+      <option name="number" value="00360" />
+      <option name="presentableId" value="LOCAL-00360" />
+      <option name="project" value="LOCAL" />
+      <updated>1668532758620</updated>
+    </task>
+    <task id="LOCAL-00361" summary="script that reads and prints the content of a file.">
+      <created>1668532834767</created>
+      <option name="number" value="00361" />
+      <option name="presentableId" value="LOCAL-00361" />
+      <option name="project" value="LOCAL" />
+      <updated>1668532834768</updated>
+    </task>
+    <task id="LOCAL-00362" summary="script that reads and prints the content of a file.">
+      <created>1668533017302</created>
+      <option name="number" value="00362" />
+      <option name="presentableId" value="LOCAL-00362" />
+      <option name="project" value="LOCAL" />
+      <updated>1668533017302</updated>
+    </task>
+    <task id="LOCAL-00363" summary="updated the readme file">
+      <created>1668533119005</created>
+      <option name="number" value="00363" />
+      <option name="presentableId" value="LOCAL-00363" />
+      <option name="project" value="LOCAL" />
+      <updated>1668533119005</updated>
+    </task>
+    <task id="LOCAL-00364" summary="script that writes a string to a file.">
+      <created>1668533460736</created>
+      <option name="number" value="00364" />
+      <option name="presentableId" value="LOCAL-00364" />
+      <option name="project" value="LOCAL" />
+      <updated>1668533460736</updated>
+    </task>
+    <task id="LOCAL-00365" summary="script that display the status code of a GET request">
+      <created>1668534069645</created>
+      <option name="number" value="00365" />
+      <option name="presentableId" value="LOCAL-00365" />
+      <option name="project" value="LOCAL" />
+      <updated>1668534069645</updated>
+    </task>
+    <task id="LOCAL-00366" summary="script that display the status code of a GET request">
+      <created>1668534125149</created>
+      <option name="number" value="00366" />
+      <option name="presentableId" value="LOCAL-00366" />
+      <option name="project" value="LOCAL" />
+      <updated>1668534125149</updated>
+    </task>
+    <option name="localTasksCounter" value="367" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -549,17 +552,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Bash script that takes in a URL, sends a request to that URL, and displays the size of the body of the response" />
-    <MESSAGE value="Bash script that takes in a URL, sends a GET request to the URL, and displays the body of the response" />
-    <MESSAGE value="Bash script that sends a DELETE request to the URL passed as the first argument and displays the body of the response" />
-    <MESSAGE value="Bash script that takes in a URL and displays all HTTP methods the server will accept." />
     <MESSAGE value="Bash script that takes in a URL as an argument, sends a GET request to the URL, and displays the body of the response" />
     <MESSAGE value="Bash script that takes in a URL, sends a POST request to the passed URL, and displays the body of the response." />
     <MESSAGE value=" function that finds a peak in a list of unsorted integers." />
     <MESSAGE value=" Bash script that sends a request to a URL passed as an argument, and displays only the status code of the response." />
     <MESSAGE value="Bash script that sends a JSON POST request to a URL passed as the first argument, and displays the body of the response." />
     <MESSAGE value="Bash script that makes a request to 0.0.0.0:5000/catch_me that causes the server to respond with a message containing You got me!, in the body of the response." />
-    <MESSAGE value="updated the readme file" />
     <MESSAGE value="python network files" />
     <MESSAGE value="Python script that takes in a URL, sends a request to the URL and displays the value of the X-Request-Id variable found in the header of the response." />
     <MESSAGE value="Pscript that takes in a URL and an email, sends a POST request to the passed URL with the email as a parameter, and displays the body of the response (decoded in utf-8)." />
@@ -574,6 +572,11 @@
     <MESSAGE value="Python script that takes 2 arguments in order to solve this challenge" />
     <MESSAGE value="Python script that fetches https://alx-intranet.hbtn.io/status" />
     <MESSAGE value="updated the readme files of the higher level languages" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated the readme files of the higher level languages" />
+    <MESSAGE value="javascript web scrapping files" />
+    <MESSAGE value="script that reads and prints the content of a file." />
+    <MESSAGE value="updated the readme file" />
+    <MESSAGE value="script that writes a string to a file." />
+    <MESSAGE value="script that display the status code of a GET request" />
+    <option name="LAST_COMMIT_MESSAGE" value="script that display the status code of a GET request" />
   </component>
 </project>

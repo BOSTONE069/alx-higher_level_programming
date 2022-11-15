@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="script that gets the contents of a webpage and stores it in a file.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="script that prints all characters of a Star Wars movie.">
+      <change beforePath="$PROJECT_DIR$/0x14-javascript-web_scraping/100-starwars_characters.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x14-javascript-web_scraping/100-starwars_characters.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,20 +179,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656428246784</updated>
-    </task>
-    <task id="LOCAL-00325" summary="Bash script that takes in a URL as an argument, sends a GET request to the URL, and displays the body of the response">
-      <created>1666315331531</created>
-      <option name="number" value="00325" />
-      <option name="presentableId" value="LOCAL-00325" />
-      <option name="project" value="LOCAL" />
-      <updated>1666315331531</updated>
-    </task>
-    <task id="LOCAL-00326" summary="Bash script that takes in a URL, sends a POST request to the passed URL, and displays the body of the response.">
-      <created>1666315596092</created>
-      <option name="number" value="00326" />
-      <option name="presentableId" value="LOCAL-00326" />
-      <option name="project" value="LOCAL" />
-      <updated>1666315596092</updated>
     </task>
     <task id="LOCAL-00327" summary=" function that finds a peak in a list of unsorted integers.">
       <created>1666316017383</created>
@@ -523,7 +509,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668535281959</updated>
     </task>
-    <option name="localTasksCounter" value="374" />
+    <task id="LOCAL-00374" summary="script that gets the contents of a webpage and stores it in a file.">
+      <created>1668545917240</created>
+      <option name="number" value="00374" />
+      <option name="presentableId" value="LOCAL-00374" />
+      <option name="project" value="LOCAL" />
+      <updated>1668545917240</updated>
+    </task>
+    <task id="LOCAL-00375" summary="script that prints all characters of a Star Wars movie.">
+      <created>1668546132288</created>
+      <option name="number" value="00375" />
+      <option name="presentableId" value="LOCAL-00375" />
+      <option name="project" value="LOCAL" />
+      <updated>1668546132288</updated>
+    </task>
+    <option name="localTasksCounter" value="376" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -551,7 +551,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Bash script that sends a JSON POST request to a URL passed as the first argument, and displays the body of the response." />
     <MESSAGE value="Bash script that makes a request to 0.0.0.0:5000/catch_me that causes the server to respond with a message containing You got me!, in the body of the response." />
     <MESSAGE value="python network files" />
     <MESSAGE value="Python script that takes in a URL, sends a request to the URL and displays the value of the X-Request-Id variable found in the header of the response." />
@@ -576,6 +575,7 @@
     <MESSAGE value="script that prints the number of movies where the character “Wedge Antilles” is present." />
     <MESSAGE value="script that computes the number of tasks completed by user id." />
     <MESSAGE value="script that gets the contents of a webpage and stores it in a file." />
-    <option name="LAST_COMMIT_MESSAGE" value="script that gets the contents of a webpage and stores it in a file." />
+    <MESSAGE value="script that prints all characters of a Star Wars movie." />
+    <option name="LAST_COMMIT_MESSAGE" value="script that prints all characters of a Star Wars movie." />
   </component>
 </project>

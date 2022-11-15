@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="Python script that fetches https://alx-intranet.hbtn.io/status">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="updated the readme files of the higher level languages" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +38,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;ToolWindowGit.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/intelligence/alx-system_engineering-devops&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/intelligence/AirBnB_clone_v2&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
@@ -179,13 +177,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656428246784</updated>
-    </task>
-    <task id="LOCAL-00309" summary="a script 14-model_city_fetch_by_state.py that prints all City objects from the database hbtn_0e_14_usa">
-      <created>1665343037405</created>
-      <option name="number" value="00309" />
-      <option name="presentableId" value="LOCAL-00309" />
-      <option name="project" value="LOCAL" />
-      <updated>1665343037405</updated>
     </task>
     <task id="LOCAL-00310" summary="a script 14-model_city_fetch_by_state.py that prints all City objects from the database hbtn_0e_14_usa">
       <created>1665343105732</created>
@@ -523,7 +514,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666550026441</updated>
     </task>
-    <option name="localTasksCounter" value="358" />
+    <task id="LOCAL-00358" summary="updated the readme files of the higher level languages">
+      <created>1667160155658</created>
+      <option name="number" value="00358" />
+      <option name="presentableId" value="LOCAL-00358" />
+      <option name="project" value="LOCAL" />
+      <updated>1667160155659</updated>
+    </task>
+    <option name="localTasksCounter" value="359" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -551,7 +549,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="made the files executables" />
     <MESSAGE value="Bash script that takes in a URL, sends a request to that URL, and displays the size of the body of the response" />
     <MESSAGE value="Bash script that takes in a URL, sends a GET request to the URL, and displays the body of the response" />
     <MESSAGE value="Bash script that sends a DELETE request to the URL passed as the first argument and displays the body of the response" />
@@ -576,6 +573,7 @@
     <MESSAGE value="Python script that takes your GitHub credentials (username and password) and uses the GitHub API to display your id" />
     <MESSAGE value="Python script that takes 2 arguments in order to solve this challenge" />
     <MESSAGE value="Python script that fetches https://alx-intranet.hbtn.io/status" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python script that fetches https://alx-intranet.hbtn.io/status" />
+    <MESSAGE value="updated the readme files of the higher level languages" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated the readme files of the higher level languages" />
   </component>
 </project>

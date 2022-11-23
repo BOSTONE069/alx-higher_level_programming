@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="script that prints all characters of a Star Wars movie." />
+    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="script that prints all characters of a Star Wars movie.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,18 +33,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ToolWindowGit.ShowToolbar": "false",
-    "last_opened_file_path": "/home/intelligence/alx-higher_level_programming",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindowGit.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/intelligence/AirBnB_clone_v2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -177,41 +179,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656428246784</updated>
-    </task>
-    <task id="LOCAL-00328" summary=" function that finds a peak in a list of unsorted integers.">
-      <created>1666316281032</created>
-      <option name="number" value="00328" />
-      <option name="presentableId" value="LOCAL-00328" />
-      <option name="project" value="LOCAL" />
-      <updated>1666316281032</updated>
-    </task>
-    <task id="LOCAL-00329" summary=" function that finds a peak in a list of unsorted integers.">
-      <created>1666339688249</created>
-      <option name="number" value="00329" />
-      <option name="presentableId" value="LOCAL-00329" />
-      <option name="project" value="LOCAL" />
-      <updated>1666339688249</updated>
-    </task>
-    <task id="LOCAL-00330" summary=" Bash script that sends a request to a URL passed as an argument, and displays only the status code of the response.">
-      <created>1666340053718</created>
-      <option name="number" value="00330" />
-      <option name="presentableId" value="LOCAL-00330" />
-      <option name="project" value="LOCAL" />
-      <updated>1666340053718</updated>
-    </task>
-    <task id="LOCAL-00331" summary="Bash script that sends a JSON POST request to a URL passed as the first argument, and displays the body of the response.">
-      <created>1666340508590</created>
-      <option name="number" value="00331" />
-      <option name="presentableId" value="LOCAL-00331" />
-      <option name="project" value="LOCAL" />
-      <updated>1666340508590</updated>
-    </task>
-    <task id="LOCAL-00332" summary="Bash script that makes a request to 0.0.0.0:5000/catch_me that causes the server to respond with a message containing You got me!, in the body of the response.">
-      <created>1666340707802</created>
-      <option name="number" value="00332" />
-      <option name="presentableId" value="LOCAL-00332" />
-      <option name="project" value="LOCAL" />
-      <updated>1666340707802</updated>
     </task>
     <task id="LOCAL-00333" summary="updated the readme file">
       <created>1666375994654</created>
@@ -521,7 +488,42 @@
       <option name="project" value="LOCAL" />
       <updated>1668546215608</updated>
     </task>
-    <option name="localTasksCounter" value="377" />
+    <task id="LOCAL-00377" summary="script that prints all characters of a Star Wars movie.">
+      <created>1668546581114</created>
+      <option name="number" value="00377" />
+      <option name="presentableId" value="LOCAL-00377" />
+      <option name="project" value="LOCAL" />
+      <updated>1668546581114</updated>
+    </task>
+    <task id="LOCAL-00378" summary="script that prints all characters of a Star Wars movie.">
+      <created>1668546661234</created>
+      <option name="number" value="00378" />
+      <option name="presentableId" value="LOCAL-00378" />
+      <option name="project" value="LOCAL" />
+      <updated>1668546661234</updated>
+    </task>
+    <task id="LOCAL-00379" summary="script that prints all characters of a Star Wars movie.">
+      <created>1668546671058</created>
+      <option name="number" value="00379" />
+      <option name="presentableId" value="LOCAL-00379" />
+      <option name="project" value="LOCAL" />
+      <updated>1668546671058</updated>
+    </task>
+    <task id="LOCAL-00380" summary="script that prints all characters of a Star Wars movie.">
+      <created>1668546918712</created>
+      <option name="number" value="00380" />
+      <option name="presentableId" value="LOCAL-00380" />
+      <option name="project" value="LOCAL" />
+      <updated>1668546918713</updated>
+    </task>
+    <task id="LOCAL-00381" summary="script that prints all characters of a Star Wars movie.">
+      <created>1668547045674</created>
+      <option name="number" value="00381" />
+      <option name="presentableId" value="LOCAL-00381" />
+      <option name="project" value="LOCAL" />
+      <updated>1668547045674</updated>
+    </task>
+    <option name="localTasksCounter" value="382" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

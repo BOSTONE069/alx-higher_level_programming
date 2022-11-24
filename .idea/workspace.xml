@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="JavaScript script that toggles the class of the &lt;header&gt; element when the user clicks on the tag DIV#toggle_header">
-      <change afterPath="$PROJECT_DIR$/0x15-javascript-web_jquery/5-main.html" afterDir="false" />
+    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="avaScript script that updates the text color of the &lt;header&gt; element to red (#FF0000).">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x15-javascript-web_jquery/5-script.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x15-javascript-web_jquery/5-script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,55 +179,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656428246784</updated>
-    </task>
-    <task id="LOCAL-00340" summary="Python script that takes in a URL, sends a request to the URL and displays the value of the X-Request-Id variable found in the header of the response.">
-      <created>1666544674154</created>
-      <option name="number" value="00340" />
-      <option name="presentableId" value="LOCAL-00340" />
-      <option name="project" value="LOCAL" />
-      <updated>1666544674154</updated>
-    </task>
-    <task id="LOCAL-00341" summary="Pscript that takes in a URL and an email, sends a POST request to the passed URL with the email as a parameter, and displays the body of the response (decoded in utf-8).">
-      <created>1666545557449</created>
-      <option name="number" value="00341" />
-      <option name="presentableId" value="LOCAL-00341" />
-      <option name="project" value="LOCAL" />
-      <updated>1666545557449</updated>
-    </task>
-    <task id="LOCAL-00342" summary="script that takes in a URL, sends a request to the URL and displays the body of the response (decoded in utf-8).">
-      <created>1666546262551</created>
-      <option name="number" value="00342" />
-      <option name="presentableId" value="LOCAL-00342" />
-      <option name="project" value="LOCAL" />
-      <updated>1666546262551</updated>
-    </task>
-    <task id="LOCAL-00343" summary="script that takes in a URL, sends a request to the URL and displays the body of the response (decoded in utf-8).">
-      <created>1666546445259</created>
-      <option name="number" value="00343" />
-      <option name="presentableId" value="LOCAL-00343" />
-      <option name="project" value="LOCAL" />
-      <updated>1666546445259</updated>
-    </task>
-    <task id="LOCAL-00344" summary="Python script that fetches https://alx-intranet.hbtn.io/status.">
-      <created>1666547074764</created>
-      <option name="number" value="00344" />
-      <option name="presentableId" value="LOCAL-00344" />
-      <option name="project" value="LOCAL" />
-      <updated>1666547074764</updated>
-    </task>
-    <task id="LOCAL-00345" summary="Python script that fetches https://alx-intranet.hbtn.io/status.">
-      <created>1666547178439</created>
-      <option name="number" value="00345" />
-      <option name="presentableId" value="LOCAL-00345" />
-      <option name="project" value="LOCAL" />
-      <updated>1666547178439</updated>
-    </task>
-    <task id="LOCAL-00346" summary="Python script that fetches https://alx-intranet.hbtn.io/status.">
-      <created>1666547279772</created>
-      <option name="number" value="00346" />
-      <option name="presentableId" value="LOCAL-00346" />
-      <option name="project" value="LOCAL" />
-      <updated>1666547279773</updated>
     </task>
     <task id="LOCAL-00347" summary="Python script that takes in a URL, sends a request to the URL and displays the value of the variable X-Request-Id in the response header">
       <created>1666547503521</created>
@@ -525,7 +474,56 @@
       <option name="project" value="LOCAL" />
       <updated>1669300156608</updated>
     </task>
-    <option name="localTasksCounter" value="389" />
+    <task id="LOCAL-00389" summary="JavaScript script that adds a &lt;li&gt; element to a list when the user clicks on the tag DIV#add_item">
+      <created>1669301557912</created>
+      <option name="number" value="00389" />
+      <option name="presentableId" value="LOCAL-00389" />
+      <option name="project" value="LOCAL" />
+      <updated>1669301557912</updated>
+    </task>
+    <task id="LOCAL-00390" summary="JavaScript script that adds a &lt;li&gt; element to a list when the user clicks on the tag DIV#add_item">
+      <created>1669301584906</created>
+      <option name="number" value="00390" />
+      <option name="presentableId" value="LOCAL-00390" />
+      <option name="project" value="LOCAL" />
+      <updated>1669301584906</updated>
+    </task>
+    <task id="LOCAL-00391" summary="JavaScript script that updates the text of the &lt;header&gt; element to New Header!!! when the user clicks on DIV#update_header">
+      <created>1669301981542</created>
+      <option name="number" value="00391" />
+      <option name="presentableId" value="LOCAL-00391" />
+      <option name="project" value="LOCAL" />
+      <updated>1669301981542</updated>
+    </task>
+    <task id="LOCAL-00392" summary="avaScript script that fetches the character name from this URL: https://swapi-api.hbtn.io/api/people/5/?format=json.">
+      <created>1669302528269</created>
+      <option name="number" value="00392" />
+      <option name="presentableId" value="LOCAL-00392" />
+      <option name="project" value="LOCAL" />
+      <updated>1669302528269</updated>
+    </task>
+    <task id="LOCAL-00393" summary="JavaScript script that fetches and lists the title for all movies by using this URL: https://swapi-api.hbtn.io/api/films/?format=json.">
+      <created>1669302977586</created>
+      <option name="number" value="00393" />
+      <option name="presentableId" value="LOCAL-00393" />
+      <option name="project" value="LOCAL" />
+      <updated>1669302977586</updated>
+    </task>
+    <task id="LOCAL-00394" summary="avaScript script that fetches from https://fourtonfish.com/hellosalut/?lang=fr and displays the value of hello from that fetch in the HTML tag DIV#hello.">
+      <created>1669303804063</created>
+      <option name="number" value="00394" />
+      <option name="presentableId" value="LOCAL-00394" />
+      <option name="project" value="LOCAL" />
+      <updated>1669303804063</updated>
+    </task>
+    <task id="LOCAL-00395" summary="avaScript script that updates the text color of the &lt;header&gt; element to red (#FF0000).">
+      <created>1669304183613</created>
+      <option name="number" value="00395" />
+      <option name="presentableId" value="LOCAL-00395" />
+      <option name="project" value="LOCAL" />
+      <updated>1669304183613</updated>
+    </task>
+    <option name="localTasksCounter" value="396" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -553,12 +551,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Python script that fetches https://alx-intranet.hbtn.io/status." />
-    <MESSAGE value="Python script that takes in a URL, sends a request to the URL and displays the value of the variable X-Request-Id in the response header" />
-    <MESSAGE value="Fetches for url" />
-    <MESSAGE value="script that takes in a URL and an email,&#10;sends a POST request to the passed&#10;URL with the email as a parameter,&#10;and displays the body of the response (decoded in utf-8)" />
-    <MESSAGE value="Python script that takes in a URL, sends a request to the URL and displays the body of the response." />
-    <MESSAGE value="script that takes in a letter and sends a POST request to http://0.0.0.0:5000/search_user with the letter as a parameter." />
     <MESSAGE value="Python script that takes your GitHub credentials (username and password) and uses the GitHub API to display your id" />
     <MESSAGE value="Python script that takes 2 arguments in order to solve this challenge" />
     <MESSAGE value="Python script that fetches https://alx-intranet.hbtn.io/status" />
@@ -578,6 +570,12 @@
     <MESSAGE value="JavaScript script that updates the text color of the &lt;header&gt; element to red (#FF0000) when the user clicks on the tag DIV#red_header" />
     <MESSAGE value="JavaScript script that adds the class red to the &lt;header&gt; element when the user clicks on the tag DIV#red_header" />
     <MESSAGE value="JavaScript script that toggles the class of the &lt;header&gt; element when the user clicks on the tag DIV#toggle_header" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaScript script that toggles the class of the &lt;header&gt; element when the user clicks on the tag DIV#toggle_header" />
+    <MESSAGE value="JavaScript script that adds a &lt;li&gt; element to a list when the user clicks on the tag DIV#add_item" />
+    <MESSAGE value="JavaScript script that updates the text of the &lt;header&gt; element to New Header!!! when the user clicks on DIV#update_header" />
+    <MESSAGE value="avaScript script that fetches the character name from this URL: https://swapi-api.hbtn.io/api/people/5/?format=json." />
+    <MESSAGE value="JavaScript script that fetches and lists the title for all movies by using this URL: https://swapi-api.hbtn.io/api/films/?format=json." />
+    <MESSAGE value="avaScript script that fetches from https://fourtonfish.com/hellosalut/?lang=fr and displays the value of hello from that fetch in the HTML tag DIV#hello." />
+    <MESSAGE value="avaScript script that updates the text color of the &lt;header&gt; element to red (#FF0000)." />
+    <option name="LAST_COMMIT_MESSAGE" value="avaScript script that updates the text color of the &lt;header&gt; element to red (#FF0000)." />
   </component>
 </project>

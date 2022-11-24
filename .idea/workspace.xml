@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="avaScript script that updates the text color of the &lt;header&gt; element to red (#FF0000).">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="JavaScript script that adds, removes and clears LI elements from a list when the user clicks.">
+      <change afterPath="$PROJECT_DIR$/0x15-javascript-web_jquery/102-main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x15-javascript-web_jquery/102-script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,13 +180,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656428246784</updated>
-    </task>
-    <task id="LOCAL-00347" summary="Python script that takes in a URL, sends a request to the URL and displays the value of the variable X-Request-Id in the response header">
-      <created>1666547503521</created>
-      <option name="number" value="00347" />
-      <option name="presentableId" value="LOCAL-00347" />
-      <option name="project" value="LOCAL" />
-      <updated>1666547503521</updated>
     </task>
     <task id="LOCAL-00348" summary="Fetches for url">
       <created>1666547560162</created>
@@ -523,7 +517,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669304183613</updated>
     </task>
-    <option name="localTasksCounter" value="396" />
+    <task id="LOCAL-00396" summary="JavaScript script that adds, removes and clears LI elements from a list when the user clicks.">
+      <created>1669304375234</created>
+      <option name="number" value="00396" />
+      <option name="presentableId" value="LOCAL-00396" />
+      <option name="project" value="LOCAL" />
+      <updated>1669304375234</updated>
+    </task>
+    <option name="localTasksCounter" value="397" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -551,7 +552,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Python script that takes your GitHub credentials (username and password) and uses the GitHub API to display your id" />
     <MESSAGE value="Python script that takes 2 arguments in order to solve this challenge" />
     <MESSAGE value="Python script that fetches https://alx-intranet.hbtn.io/status" />
     <MESSAGE value="updated the readme files of the higher level languages" />
@@ -576,6 +576,7 @@
     <MESSAGE value="JavaScript script that fetches and lists the title for all movies by using this URL: https://swapi-api.hbtn.io/api/films/?format=json." />
     <MESSAGE value="avaScript script that fetches from https://fourtonfish.com/hellosalut/?lang=fr and displays the value of hello from that fetch in the HTML tag DIV#hello." />
     <MESSAGE value="avaScript script that updates the text color of the &lt;header&gt; element to red (#FF0000)." />
-    <option name="LAST_COMMIT_MESSAGE" value="avaScript script that updates the text color of the &lt;header&gt; element to red (#FF0000)." />
+    <MESSAGE value="JavaScript script that adds, removes and clears LI elements from a list when the user clicks." />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaScript script that adds, removes and clears LI elements from a list when the user clicks." />
   </component>
 </project>

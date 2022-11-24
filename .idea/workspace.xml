@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="JavaScript script that adds the class red to the &lt;header&gt; element when the user clicks on the tag DIV#red_header">
-      <change afterPath="$PROJECT_DIR$/0x15-javascript-web_jquery/4-main.html" afterDir="false" />
+    <list default="true" id="3eab62a0-76fe-45da-818a-c9675766087b" name="Changes" comment="JavaScript script that toggles the class of the &lt;header&gt; element when the user clicks on the tag DIV#toggle_header">
+      <change afterPath="$PROJECT_DIR$/0x15-javascript-web_jquery/5-main.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x15-javascript-web_jquery/4-script.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x15-javascript-web_jquery/4-script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x15-javascript-web_jquery/5-script.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x15-javascript-web_jquery/5-script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,13 +181,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656428246784</updated>
-    </task>
-    <task id="LOCAL-00339" summary="Python script that fetches https://alx-intranet.hbtn.io/status.">
-      <created>1666544404622</created>
-      <option name="number" value="00339" />
-      <option name="presentableId" value="LOCAL-00339" />
-      <option name="project" value="LOCAL" />
-      <updated>1666544404622</updated>
     </task>
     <task id="LOCAL-00340" summary="Python script that takes in a URL, sends a request to the URL and displays the value of the X-Request-Id variable found in the header of the response.">
       <created>1666544674154</created>
@@ -525,7 +518,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669299805898</updated>
     </task>
-    <option name="localTasksCounter" value="388" />
+    <task id="LOCAL-00388" summary="JavaScript script that toggles the class of the &lt;header&gt; element when the user clicks on the tag DIV#toggle_header">
+      <created>1669300156608</created>
+      <option name="number" value="00388" />
+      <option name="presentableId" value="LOCAL-00388" />
+      <option name="project" value="LOCAL" />
+      <updated>1669300156608</updated>
+    </task>
+    <option name="localTasksCounter" value="389" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -553,7 +553,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="script that takes in a URL, sends a request to the URL and displays the body of the response (decoded in utf-8)." />
     <MESSAGE value="Python script that fetches https://alx-intranet.hbtn.io/status." />
     <MESSAGE value="Python script that takes in a URL, sends a request to the URL and displays the value of the variable X-Request-Id in the response header" />
     <MESSAGE value="Fetches for url" />
@@ -578,6 +577,7 @@
     <MESSAGE value="JavaScript script that updates the text color of the &lt;header&gt; element to red (#FF0000) using jQuery API." />
     <MESSAGE value="JavaScript script that updates the text color of the &lt;header&gt; element to red (#FF0000) when the user clicks on the tag DIV#red_header" />
     <MESSAGE value="JavaScript script that adds the class red to the &lt;header&gt; element when the user clicks on the tag DIV#red_header" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaScript script that adds the class red to the &lt;header&gt; element when the user clicks on the tag DIV#red_header" />
+    <MESSAGE value="JavaScript script that toggles the class of the &lt;header&gt; element when the user clicks on the tag DIV#toggle_header" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaScript script that toggles the class of the &lt;header&gt; element when the user clicks on the tag DIV#toggle_header" />
   </component>
 </project>
